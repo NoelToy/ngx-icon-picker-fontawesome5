@@ -145,12 +145,3 @@ export class AppComponent implements OnInit {
 }
 ```
 * Start your project with `yarn start` (or `npm start`) and go to _localhost:4200_
-
-### Install the library
-
-```bash
-npm install
-```
-
-```
-go to _localhost:4200_
