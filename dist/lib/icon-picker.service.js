@@ -5625,8 +5625,8 @@ var IconPickerService = (function () {
     IconPickerService.prototype.getFa5Icons = function () {
         return [
             {
-                "id": "fab fa-accessible-icon",
                 "name": "Accessible-icon",
+                "id": "fab fa-accessible-icon",
                 "filter": [
                     "accessibility",
                     "accessible",
@@ -5634,8 +5634,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-american-sign-language-interpreting",
                 "name": "American-sign-language-interpreting",
+                "id": "fas fa-american-sign-language-interpreting",
                 "filter": [
                     "accessibility",
                     "american",
@@ -5645,8 +5645,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-assistive-listening-systems",
                 "name": "Assistive-listening-systems",
+                "id": "fas fa-assistive-listening-systems",
                 "filter": [
                     "accessibility",
                     "assistive",
@@ -5655,8 +5655,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-audio-description",
                 "name": "Audio-description",
+                "id": "fas fa-audio-description",
                 "filter": [
                     "accessibility",
                     "audio",
@@ -5664,24 +5664,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-blind",
                 "name": "Blind",
+                "id": "fas fa-blind",
                 "filter": [
                     "accessibility",
                     "blind"
                 ]
             },
             {
-                "id": "fas fa-braille",
                 "name": "Braille",
+                "id": "fas fa-braille",
                 "filter": [
                     "accessibility",
                     "braille"
                 ]
             },
             {
+                "name": "Closed-captioning",
                 "id": "fas fa-closed-captioning",
-                "name": "Closed-captioning",
                 "filter": [
                     "accessibility",
                     "closed",
@@ -5689,8 +5689,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Closed-captioning",
                 "id": "far fa-closed-captioning",
-                "name": "Closed-captioning",
                 "filter": [
                     "accessibility",
                     "closed",
@@ -5698,16 +5698,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-deaf",
                 "name": "Deaf",
+                "id": "fas fa-deaf",
                 "filter": [
                     "accessibility",
                     "deaf"
                 ]
             },
             {
-                "id": "fas fa-low-vision",
                 "name": "Low-vision",
+                "id": "fas fa-low-vision",
                 "filter": [
                     "accessibility",
                     "low",
@@ -5715,8 +5715,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-phone-volume",
                 "name": "Phone-volume",
+                "id": "fas fa-phone-volume",
                 "filter": [
                     "accessibility",
                     "phone",
@@ -5724,8 +5724,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Question-circle",
                 "id": "fas fa-question-circle",
-                "name": "Question-circle",
                 "filter": [
                     "accessibility",
                     "question",
@@ -5733,8 +5733,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Question-circle",
                 "id": "far fa-question-circle",
-                "name": "Question-circle",
                 "filter": [
                     "accessibility",
                     "question",
@@ -5742,8 +5742,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sign-language",
                 "name": "Sign-language",
+                "id": "fas fa-sign-language",
                 "filter": [
                     "accessibility",
                     "sign",
@@ -5751,16 +5751,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-tty",
                 "name": "Tty",
+                "id": "fas fa-tty",
                 "filter": [
                     "accessibility",
                     "tty"
                 ]
             },
             {
-                "id": "fas fa-universal-access",
                 "name": "Universal-access",
+                "id": "fas fa-universal-access",
                 "filter": [
                     "accessibility",
                     "universal",
@@ -5768,16 +5768,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-wheelchair",
                 "name": "Wheelchair",
+                "id": "fas fa-wheelchair",
                 "filter": [
                     "accessibility",
                     "wheelchair"
                 ]
             },
             {
-                "id": "fas fa-angle-double-down",
                 "name": "Angle-double-down",
+                "id": "fas fa-angle-double-down",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5786,8 +5786,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-double-left",
                 "name": "Angle-double-left",
+                "id": "fas fa-angle-double-left",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5796,8 +5796,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-double-right",
                 "name": "Angle-double-right",
+                "id": "fas fa-angle-double-right",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5806,8 +5806,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-double-up",
                 "name": "Angle-double-up",
+                "id": "fas fa-angle-double-up",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5816,8 +5816,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-down",
                 "name": "Angle-down",
+                "id": "fas fa-angle-down",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5825,8 +5825,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-left",
                 "name": "Angle-left",
+                "id": "fas fa-angle-left",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5834,8 +5834,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-right",
                 "name": "Angle-right",
+                "id": "fas fa-angle-right",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5843,8 +5843,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-angle-up",
                 "name": "Angle-up",
+                "id": "fas fa-angle-up",
                 "filter": [
                     "arrows",
                     "angle",
@@ -5852,8 +5852,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-down",
                 "id": "fas fa-arrow-alt-circle-down",
-                "name": "Arrow-alt-circle-down",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5863,8 +5863,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-down",
                 "id": "far fa-arrow-alt-circle-down",
-                "name": "Arrow-alt-circle-down",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5874,8 +5874,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-left",
                 "id": "fas fa-arrow-alt-circle-left",
-                "name": "Arrow-alt-circle-left",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5885,8 +5885,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-left",
                 "id": "far fa-arrow-alt-circle-left",
-                "name": "Arrow-alt-circle-left",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5896,8 +5896,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-right",
                 "id": "fas fa-arrow-alt-circle-right",
-                "name": "Arrow-alt-circle-right",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5907,8 +5907,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-right",
                 "id": "far fa-arrow-alt-circle-right",
-                "name": "Arrow-alt-circle-right",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5918,8 +5918,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-up",
                 "id": "fas fa-arrow-alt-circle-up",
-                "name": "Arrow-alt-circle-up",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5929,8 +5929,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Arrow-alt-circle-up",
                 "id": "far fa-arrow-alt-circle-up",
-                "name": "Arrow-alt-circle-up",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5940,8 +5940,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-circle-down",
                 "name": "Arrow-circle-down",
+                "id": "fas fa-arrow-circle-down",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5950,8 +5950,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-circle-left",
                 "name": "Arrow-circle-left",
+                "id": "fas fa-arrow-circle-left",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5960,8 +5960,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-circle-right",
                 "name": "Arrow-circle-right",
+                "id": "fas fa-arrow-circle-right",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5970,8 +5970,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-circle-up",
                 "name": "Arrow-circle-up",
+                "id": "fas fa-arrow-circle-up",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5980,8 +5980,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-down",
                 "name": "Arrow-down",
+                "id": "fas fa-arrow-down",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5989,8 +5989,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-left",
                 "name": "Arrow-left",
+                "id": "fas fa-arrow-left",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -5998,8 +5998,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-right",
                 "name": "Arrow-right",
+                "id": "fas fa-arrow-right",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -6007,8 +6007,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrow-up",
                 "name": "Arrow-up",
+                "id": "fas fa-arrow-up",
                 "filter": [
                     "arrows",
                     "arrow",
@@ -6016,8 +6016,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrows-alt",
                 "name": "Arrows-alt",
+                "id": "fas fa-arrows-alt",
                 "filter": [
                     "arrows",
                     "arrows",
@@ -6025,8 +6025,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrows-alt-h",
                 "name": "Arrows-alt-h",
+                "id": "fas fa-arrows-alt-h",
                 "filter": [
                     "arrows",
                     "arrows",
@@ -6035,8 +6035,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-arrows-alt-v",
                 "name": "Arrows-alt-v",
+                "id": "fas fa-arrows-alt-v",
                 "filter": [
                     "arrows",
                     "arrows",
@@ -6045,8 +6045,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-caret-down",
                 "name": "Caret-down",
+                "id": "fas fa-caret-down",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6054,8 +6054,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-caret-left",
                 "name": "Caret-left",
+                "id": "fas fa-caret-left",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6063,8 +6063,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-caret-right",
                 "name": "Caret-right",
+                "id": "fas fa-caret-right",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6072,8 +6072,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-down",
                 "id": "fas fa-caret-square-down",
-                "name": "Caret-square-down",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6082,8 +6082,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-down",
                 "id": "far fa-caret-square-down",
-                "name": "Caret-square-down",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6092,8 +6092,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-left",
                 "id": "fas fa-caret-square-left",
-                "name": "Caret-square-left",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6102,8 +6102,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-left",
                 "id": "far fa-caret-square-left",
-                "name": "Caret-square-left",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6112,8 +6112,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-right",
                 "id": "fas fa-caret-square-right",
-                "name": "Caret-square-right",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6122,8 +6122,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-right",
                 "id": "far fa-caret-square-right",
-                "name": "Caret-square-right",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6132,8 +6132,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-up",
                 "id": "fas fa-caret-square-up",
-                "name": "Caret-square-up",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6142,8 +6142,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Caret-square-up",
                 "id": "far fa-caret-square-up",
-                "name": "Caret-square-up",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6152,8 +6152,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-caret-up",
                 "name": "Caret-up",
+                "id": "fas fa-caret-up",
                 "filter": [
                     "arrows",
                     "caret",
@@ -6161,8 +6161,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-cart-arrow-down",
                 "name": "Cart-arrow-down",
+                "id": "fas fa-cart-arrow-down",
                 "filter": [
                     "arrows",
                     "cart",
@@ -6171,8 +6171,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chart-line",
                 "name": "Chart-line",
+                "id": "fas fa-chart-line",
                 "filter": [
                     "arrows",
                     "chart",
@@ -6180,8 +6180,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-circle-down",
                 "name": "Chevron-circle-down",
+                "id": "fas fa-chevron-circle-down",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6190,8 +6190,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-circle-left",
                 "name": "Chevron-circle-left",
+                "id": "fas fa-chevron-circle-left",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6200,8 +6200,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-circle-right",
                 "name": "Chevron-circle-right",
+                "id": "fas fa-chevron-circle-right",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6210,8 +6210,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-circle-up",
                 "name": "Chevron-circle-up",
+                "id": "fas fa-chevron-circle-up",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6220,8 +6220,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-down",
                 "name": "Chevron-down",
+                "id": "fas fa-chevron-down",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6229,8 +6229,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-left",
                 "name": "Chevron-left",
+                "id": "fas fa-chevron-left",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6238,8 +6238,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-right",
                 "name": "Chevron-right",
+                "id": "fas fa-chevron-right",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6247,8 +6247,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chevron-up",
                 "name": "Chevron-up",
+                "id": "fas fa-chevron-up",
                 "filter": [
                     "arrows",
                     "chevron",
@@ -6256,8 +6256,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-cloud-download-alt",
                 "name": "Cloud-download-alt",
+                "id": "fas fa-cloud-download-alt",
                 "filter": [
                     "arrows",
                     "cloud",
@@ -6266,8 +6266,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-cloud-upload-alt",
                 "name": "Cloud-upload-alt",
+                "id": "fas fa-cloud-upload-alt",
                 "filter": [
                     "arrows",
                     "cloud",
@@ -6276,16 +6276,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-download",
                 "name": "Download",
+                "id": "fas fa-download",
                 "filter": [
                     "arrows",
                     "download"
                 ]
             },
             {
-                "id": "fas fa-exchange-alt",
                 "name": "Exchange-alt",
+                "id": "fas fa-exchange-alt",
                 "filter": [
                     "arrows",
                     "exchange",
@@ -6293,8 +6293,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-expand-arrows-alt",
                 "name": "Expand-arrows-alt",
+                "id": "fas fa-expand-arrows-alt",
                 "filter": [
                     "arrows",
                     "expand",
@@ -6303,8 +6303,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-external-link-alt",
                 "name": "External-link-alt",
+                "id": "fas fa-external-link-alt",
                 "filter": [
                     "arrows",
                     "external",
@@ -6313,8 +6313,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-external-link-square-alt",
                 "name": "External-link-square-alt",
+                "id": "fas fa-external-link-square-alt",
                 "filter": [
                     "arrows",
                     "external",
@@ -6324,8 +6324,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-down",
                 "id": "fas fa-hand-point-down",
-                "name": "Hand-point-down",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6334,8 +6334,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-down",
                 "id": "far fa-hand-point-down",
-                "name": "Hand-point-down",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6344,8 +6344,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-left",
                 "id": "fas fa-hand-point-left",
-                "name": "Hand-point-left",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6354,8 +6354,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-left",
                 "id": "far fa-hand-point-left",
-                "name": "Hand-point-left",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6364,8 +6364,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-right",
                 "id": "fas fa-hand-point-right",
-                "name": "Hand-point-right",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6374,8 +6374,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-right",
                 "id": "far fa-hand-point-right",
-                "name": "Hand-point-right",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6384,8 +6384,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-up",
                 "id": "fas fa-hand-point-up",
-                "name": "Hand-point-up",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6394,8 +6394,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-point-up",
                 "id": "far fa-hand-point-up",
-                "name": "Hand-point-up",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6404,8 +6404,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-pointer",
                 "id": "fas fa-hand-pointer",
-                "name": "Hand-pointer",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6413,8 +6413,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-pointer",
                 "id": "far fa-hand-pointer",
-                "name": "Hand-pointer",
                 "filter": [
                     "arrows",
                     "hand",
@@ -6422,16 +6422,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-history",
                 "name": "History",
+                "id": "fas fa-history",
                 "filter": [
                     "arrows",
                     "history"
                 ]
             },
             {
-                "id": "fas fa-level-down-alt",
                 "name": "Level-down-alt",
+                "id": "fas fa-level-down-alt",
                 "filter": [
                     "arrows",
                     "level",
@@ -6440,8 +6440,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-level-up-alt",
                 "name": "Level-up-alt",
+                "id": "fas fa-level-up-alt",
                 "filter": [
                     "arrows",
                     "level",
@@ -6450,8 +6450,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-location-arrow",
                 "name": "Location-arrow",
+                "id": "fas fa-location-arrow",
                 "filter": [
                     "arrows",
                     "location",
@@ -6459,8 +6459,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-long-arrow-alt-down",
                 "name": "Long-arrow-alt-down",
+                "id": "fas fa-long-arrow-alt-down",
                 "filter": [
                     "arrows",
                     "long",
@@ -6470,8 +6470,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-long-arrow-alt-left",
                 "name": "Long-arrow-alt-left",
+                "id": "fas fa-long-arrow-alt-left",
                 "filter": [
                     "arrows",
                     "long",
@@ -6481,8 +6481,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-long-arrow-alt-right",
                 "name": "Long-arrow-alt-right",
+                "id": "fas fa-long-arrow-alt-right",
                 "filter": [
                     "arrows",
                     "long",
@@ -6492,8 +6492,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-long-arrow-alt-up",
                 "name": "Long-arrow-alt-up",
+                "id": "fas fa-long-arrow-alt-up",
                 "filter": [
                     "arrows",
                     "long",
@@ -6503,8 +6503,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-mouse-pointer",
                 "name": "Mouse-pointer",
+                "id": "fas fa-mouse-pointer",
                 "filter": [
                     "arrows",
                     "mouse",
@@ -6512,40 +6512,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-play",
                 "name": "Play",
+                "id": "fas fa-play",
                 "filter": [
                     "arrows",
                     "play"
                 ]
             },
             {
-                "id": "fas fa-random",
                 "name": "Random",
+                "id": "fas fa-random",
                 "filter": [
                     "arrows",
                     "random"
                 ]
             },
             {
-                "id": "fas fa-recycle",
                 "name": "Recycle",
+                "id": "fas fa-recycle",
                 "filter": [
                     "arrows",
                     "recycle"
                 ]
             },
             {
-                "id": "fas fa-redo",
                 "name": "Redo",
+                "id": "fas fa-redo",
                 "filter": [
                     "arrows",
                     "redo"
                 ]
             },
             {
-                "id": "fas fa-redo-alt",
                 "name": "Redo-alt",
+                "id": "fas fa-redo-alt",
                 "filter": [
                     "arrows",
                     "redo",
@@ -6553,16 +6553,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-reply",
                 "name": "Reply",
+                "id": "fas fa-reply",
                 "filter": [
                     "arrows",
                     "reply"
                 ]
             },
             {
-                "id": "fas fa-reply-all",
                 "name": "Reply-all",
+                "id": "fas fa-reply-all",
                 "filter": [
                     "arrows",
                     "reply",
@@ -6570,24 +6570,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-retweet",
                 "name": "Retweet",
+                "id": "fas fa-retweet",
                 "filter": [
                     "arrows",
                     "retweet"
                 ]
             },
             {
-                "id": "fas fa-share",
                 "name": "Share",
+                "id": "fas fa-share",
                 "filter": [
                     "arrows",
                     "share"
                 ]
             },
             {
+                "name": "Share-square",
                 "id": "fas fa-share-square",
-                "name": "Share-square",
                 "filter": [
                     "arrows",
                     "share",
@@ -6595,8 +6595,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Share-square",
                 "id": "far fa-share-square",
-                "name": "Share-square",
                 "filter": [
                     "arrows",
                     "share",
@@ -6604,8 +6604,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sign-in-alt",
                 "name": "Sign-in-alt",
+                "id": "fas fa-sign-in-alt",
                 "filter": [
                     "arrows",
                     "sign",
@@ -6614,8 +6614,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sign-out-alt",
                 "name": "Sign-out-alt",
+                "id": "fas fa-sign-out-alt",
                 "filter": [
                     "arrows",
                     "sign",
@@ -6624,16 +6624,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort",
                 "name": "Sort",
+                "id": "fas fa-sort",
                 "filter": [
                     "arrows",
                     "sort"
                 ]
             },
             {
-                "id": "fas fa-sort-alpha-down",
                 "name": "Sort-alpha-down",
+                "id": "fas fa-sort-alpha-down",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6642,8 +6642,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-alpha-up",
                 "name": "Sort-alpha-up",
+                "id": "fas fa-sort-alpha-up",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6652,8 +6652,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-amount-down",
                 "name": "Sort-amount-down",
+                "id": "fas fa-sort-amount-down",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6662,8 +6662,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-amount-up",
                 "name": "Sort-amount-up",
+                "id": "fas fa-sort-amount-up",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6672,8 +6672,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-down",
                 "name": "Sort-down",
+                "id": "fas fa-sort-down",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6681,8 +6681,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-numeric-down",
                 "name": "Sort-numeric-down",
+                "id": "fas fa-sort-numeric-down",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6691,8 +6691,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-numeric-up",
                 "name": "Sort-numeric-up",
+                "id": "fas fa-sort-numeric-up",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6701,8 +6701,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sort-up",
                 "name": "Sort-up",
+                "id": "fas fa-sort-up",
                 "filter": [
                     "arrows",
                     "sort",
@@ -6710,16 +6710,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sync",
                 "name": "Sync",
+                "id": "fas fa-sync",
                 "filter": [
                     "arrows",
                     "sync"
                 ]
             },
             {
-                "id": "fas fa-sync-alt",
                 "name": "Sync-alt",
+                "id": "fas fa-sync-alt",
                 "filter": [
                     "arrows",
                     "sync",
@@ -6727,8 +6727,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-text-height",
                 "name": "Text-height",
+                "id": "fas fa-text-height",
                 "filter": [
                     "arrows",
                     "text",
@@ -6736,8 +6736,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-text-width",
                 "name": "Text-width",
+                "id": "fas fa-text-width",
                 "filter": [
                     "arrows",
                     "text",
@@ -6745,16 +6745,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-undo",
                 "name": "Undo",
+                "id": "fas fa-undo",
                 "filter": [
                     "arrows",
                     "undo"
                 ]
             },
             {
-                "id": "fas fa-undo-alt",
                 "name": "Undo-alt",
+                "id": "fas fa-undo-alt",
                 "filter": [
                     "arrows",
                     "undo",
@@ -6762,101 +6762,64 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-upload",
                 "name": "Upload",
+                "id": "fas fa-upload",
                 "filter": [
                     "arrows",
                     "upload"
                 ]
             },
             {
-                "id": "fas fa-audio-description",
-                "name": "Audio-description",
-                "filter": [
-                    "audio & video",
-                    "audio",
-                    "description"
-                ]
-            },
-            {
-                "id": "fas fa-backward",
                 "name": "Backward",
+                "id": "fas fa-backward",
                 "filter": [
                     "audio & video",
                     "backward"
                 ]
             },
             {
+                "name": "Circle",
                 "id": "fas fa-circle",
-                "name": "Circle",
                 "filter": [
                     "audio & video",
                     "circle"
                 ]
             },
             {
+                "name": "Circle",
                 "id": "far fa-circle",
-                "name": "Circle",
                 "filter": [
                     "audio & video",
                     "circle"
                 ]
             },
             {
-                "id": "fas fa-closed-captioning",
-                "name": "Closed-captioning",
-                "filter": [
-                    "audio & video",
-                    "closed",
-                    "captioning"
-                ]
-            },
-            {
-                "id": "far fa-closed-captioning",
-                "name": "Closed-captioning",
-                "filter": [
-                    "audio & video",
-                    "closed",
-                    "captioning"
-                ]
-            },
-            {
-                "id": "fas fa-compress",
                 "name": "Compress",
+                "id": "fas fa-compress",
                 "filter": [
                     "audio & video",
                     "compress"
                 ]
             },
             {
-                "id": "fas fa-eject",
                 "name": "Eject",
+                "id": "fas fa-eject",
                 "filter": [
                     "audio & video",
                     "eject"
                 ]
             },
             {
-                "id": "fas fa-expand",
                 "name": "Expand",
+                "id": "fas fa-expand",
                 "filter": [
                     "audio & video",
                     "expand"
                 ]
             },
             {
-                "id": "fas fa-expand-arrows-alt",
-                "name": "Expand-arrows-alt",
-                "filter": [
-                    "audio & video",
-                    "expand",
-                    "arrows",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-fast-backward",
                 "name": "Fast-backward",
+                "id": "fas fa-fast-backward",
                 "filter": [
                     "audio & video",
                     "fast",
@@ -6864,8 +6827,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-fast-forward",
                 "name": "Fast-forward",
+                "id": "fas fa-fast-forward",
                 "filter": [
                     "audio & video",
                     "fast",
@@ -6873,8 +6836,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-audio",
                 "id": "fas fa-file-audio",
-                "name": "File-audio",
                 "filter": [
                     "audio & video",
                     "file",
@@ -6882,8 +6845,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-audio",
                 "id": "far fa-file-audio",
-                "name": "File-audio",
                 "filter": [
                     "audio & video",
                     "file",
@@ -6891,8 +6854,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-video",
                 "id": "fas fa-file-video",
-                "name": "File-video",
                 "filter": [
                     "audio & video",
                     "file",
@@ -6900,8 +6863,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-video",
                 "id": "far fa-file-video",
-                "name": "File-video",
                 "filter": [
                     "audio & video",
                     "file",
@@ -6909,40 +6872,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-film",
                 "name": "Film",
+                "id": "fas fa-film",
                 "filter": [
                     "audio & video",
                     "film"
                 ]
             },
             {
-                "id": "fas fa-forward",
                 "name": "Forward",
+                "id": "fas fa-forward",
                 "filter": [
                     "audio & video",
                     "forward"
                 ]
             },
             {
-                "id": "fas fa-headphones",
                 "name": "Headphones",
+                "id": "fas fa-headphones",
                 "filter": [
                     "audio & video",
                     "headphones"
                 ]
             },
             {
-                "id": "fas fa-microphone",
                 "name": "Microphone",
+                "id": "fas fa-microphone",
                 "filter": [
                     "audio & video",
                     "microphone"
                 ]
             },
             {
-                "id": "fas fa-microphone-slash",
                 "name": "Microphone-slash",
+                "id": "fas fa-microphone-slash",
                 "filter": [
                     "audio & video",
                     "microphone",
@@ -6950,24 +6913,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-music",
                 "name": "Music",
+                "id": "fas fa-music",
                 "filter": [
                     "audio & video",
                     "music"
                 ]
             },
             {
-                "id": "fas fa-pause",
                 "name": "Pause",
+                "id": "fas fa-pause",
                 "filter": [
                     "audio & video",
                     "pause"
                 ]
             },
             {
+                "name": "Pause-circle",
                 "id": "fas fa-pause-circle",
-                "name": "Pause-circle",
                 "filter": [
                     "audio & video",
                     "pause",
@@ -6975,8 +6938,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Pause-circle",
                 "id": "far fa-pause-circle",
-                "name": "Pause-circle",
                 "filter": [
                     "audio & video",
                     "pause",
@@ -6984,25 +6947,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-phone-volume",
-                "name": "Phone-volume",
-                "filter": [
-                    "audio & video",
-                    "phone",
-                    "volume"
-                ]
-            },
-            {
-                "id": "fas fa-play",
-                "name": "Play",
-                "filter": [
-                    "audio & video",
-                    "play"
-                ]
-            },
-            {
+                "name": "Play-circle",
                 "id": "fas fa-play-circle",
-                "name": "Play-circle",
                 "filter": [
                     "audio & video",
                     "play",
@@ -7010,8 +6956,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Play-circle",
                 "id": "far fa-play-circle",
-                "name": "Play-circle",
                 "filter": [
                     "audio & video",
                     "play",
@@ -7019,49 +6965,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-podcast",
                 "name": "Podcast",
+                "id": "fas fa-podcast",
                 "filter": [
                     "audio & video",
                     "podcast"
                 ]
             },
             {
-                "id": "fas fa-random",
-                "name": "Random",
-                "filter": [
-                    "audio & video",
-                    "random"
-                ]
-            },
-            {
-                "id": "fas fa-redo",
-                "name": "Redo",
-                "filter": [
-                    "audio & video",
-                    "redo"
-                ]
-            },
-            {
-                "id": "fas fa-redo-alt",
-                "name": "Redo-alt",
-                "filter": [
-                    "audio & video",
-                    "redo",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-rss",
                 "name": "Rss",
+                "id": "fas fa-rss",
                 "filter": [
                     "audio & video",
                     "rss"
                 ]
             },
             {
-                "id": "fas fa-rss-square",
                 "name": "Rss-square",
+                "id": "fas fa-rss-square",
                 "filter": [
                     "audio & video",
                     "rss",
@@ -7069,8 +6990,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-step-backward",
                 "name": "Step-backward",
+                "id": "fas fa-step-backward",
                 "filter": [
                     "audio & video",
                     "step",
@@ -7078,8 +6999,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-step-forward",
                 "name": "Step-forward",
+                "id": "fas fa-step-forward",
                 "filter": [
                     "audio & video",
                     "step",
@@ -7087,16 +7008,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-stop",
                 "name": "Stop",
+                "id": "fas fa-stop",
                 "filter": [
                     "audio & video",
                     "stop"
                 ]
             },
             {
+                "name": "Stop-circle",
                 "id": "fas fa-stop-circle",
-                "name": "Stop-circle",
                 "filter": [
                     "audio & video",
                     "stop",
@@ -7104,8 +7025,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Stop-circle",
                 "id": "far fa-stop-circle",
-                "name": "Stop-circle",
                 "filter": [
                     "audio & video",
                     "stop",
@@ -7113,50 +7034,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sync",
-                "name": "Sync",
-                "filter": [
-                    "audio & video",
-                    "sync"
-                ]
-            },
-            {
-                "id": "fas fa-sync-alt",
-                "name": "Sync-alt",
-                "filter": [
-                    "audio & video",
-                    "sync",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-undo",
-                "name": "Undo",
-                "filter": [
-                    "audio & video",
-                    "undo"
-                ]
-            },
-            {
-                "id": "fas fa-undo-alt",
-                "name": "Undo-alt",
-                "filter": [
-                    "audio & video",
-                    "undo",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-video",
                 "name": "Video",
+                "id": "fas fa-video",
                 "filter": [
                     "audio & video",
                     "video"
                 ]
             },
             {
-                "id": "fas fa-volume-down",
                 "name": "Volume-down",
+                "id": "fas fa-volume-down",
                 "filter": [
                     "audio & video",
                     "volume",
@@ -7164,8 +7051,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-volume-off",
                 "name": "Volume-off",
+                "id": "fas fa-volume-off",
                 "filter": [
                     "audio & video",
                     "volume",
@@ -7173,8 +7060,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-volume-up",
                 "name": "Volume-up",
+                "id": "fas fa-volume-up",
                 "filter": [
                     "audio & video",
                     "volume",
@@ -7182,16 +7069,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-youtube",
                 "name": "Youtube",
+                "id": "fab fa-youtube",
                 "filter": [
                     "audio & video",
                     "youtube"
                 ]
             },
             {
+                "name": "Address-book",
                 "id": "fas fa-address-book",
-                "name": "Address-book",
                 "filter": [
                     "business",
                     "address",
@@ -7199,8 +7086,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Address-book",
                 "id": "far fa-address-book",
-                "name": "Address-book",
                 "filter": [
                     "business",
                     "address",
@@ -7208,8 +7095,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Address-card",
                 "id": "fas fa-address-card",
-                "name": "Address-card",
                 "filter": [
                     "business",
                     "address",
@@ -7217,8 +7104,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Address-card",
                 "id": "far fa-address-card",
-                "name": "Address-card",
                 "filter": [
                     "business",
                     "address",
@@ -7226,16 +7113,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-archive",
                 "name": "Archive",
+                "id": "fas fa-archive",
                 "filter": [
                     "business",
                     "archive"
                 ]
             },
             {
-                "id": "fas fa-balance-scale",
                 "name": "Balance-scale",
+                "id": "fas fa-balance-scale",
                 "filter": [
                     "business",
                     "balance",
@@ -7243,8 +7130,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-birthday-cake",
                 "name": "Birthday-cake",
+                "id": "fas fa-birthday-cake",
                 "filter": [
                     "business",
                     "birthday",
@@ -7252,80 +7139,80 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-book",
                 "name": "Book",
+                "id": "fas fa-book",
                 "filter": [
                     "business",
                     "book"
                 ]
             },
             {
-                "id": "fas fa-briefcase",
                 "name": "Briefcase",
+                "id": "fas fa-briefcase",
                 "filter": [
                     "business",
                     "briefcase"
                 ]
             },
             {
+                "name": "Building",
                 "id": "fas fa-building",
-                "name": "Building",
                 "filter": [
                     "business",
                     "building"
                 ]
             },
             {
+                "name": "Building",
                 "id": "far fa-building",
-                "name": "Building",
                 "filter": [
                     "business",
                     "building"
                 ]
             },
             {
-                "id": "fas fa-bullhorn",
                 "name": "Bullhorn",
+                "id": "fas fa-bullhorn",
                 "filter": [
                     "business",
                     "bullhorn"
                 ]
             },
             {
-                "id": "fas fa-bullseye",
                 "name": "Bullseye",
+                "id": "fas fa-bullseye",
                 "filter": [
                     "business",
                     "bullseye"
                 ]
             },
             {
-                "id": "fas fa-calculator",
                 "name": "Calculator",
+                "id": "fas fa-calculator",
                 "filter": [
                     "business",
                     "calculator"
                 ]
             },
             {
+                "name": "Calendar",
                 "id": "fas fa-calendar",
-                "name": "Calendar",
                 "filter": [
                     "business",
                     "calendar"
                 ]
             },
             {
+                "name": "Calendar",
                 "id": "far fa-calendar",
-                "name": "Calendar",
                 "filter": [
                     "business",
                     "calendar"
                 ]
             },
             {
+                "name": "Calendar-alt",
                 "id": "fas fa-calendar-alt",
-                "name": "Calendar-alt",
                 "filter": [
                     "business",
                     "calendar",
@@ -7333,8 +7220,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-alt",
                 "id": "far fa-calendar-alt",
-                "name": "Calendar-alt",
                 "filter": [
                     "business",
                     "calendar",
@@ -7342,16 +7229,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-certificate",
                 "name": "Certificate",
+                "id": "fas fa-certificate",
                 "filter": [
                     "business",
                     "certificate"
                 ]
             },
             {
-                "id": "fas fa-chart-area",
                 "name": "Chart-area",
+                "id": "fas fa-chart-area",
                 "filter": [
                     "business",
                     "chart",
@@ -7359,8 +7246,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Chart-bar",
                 "id": "fas fa-chart-bar",
-                "name": "Chart-bar",
                 "filter": [
                     "business",
                     "chart",
@@ -7368,8 +7255,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Chart-bar",
                 "id": "far fa-chart-bar",
-                "name": "Chart-bar",
                 "filter": [
                     "business",
                     "chart",
@@ -7377,17 +7264,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chart-line",
-                "name": "Chart-line",
-                "filter": [
-                    "business",
-                    "chart",
-                    "line"
-                ]
-            },
-            {
-                "id": "fas fa-chart-pie",
                 "name": "Chart-pie",
+                "id": "fas fa-chart-pie",
                 "filter": [
                     "business",
                     "chart",
@@ -7395,128 +7273,128 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Clipboard",
                 "id": "fas fa-clipboard",
-                "name": "Clipboard",
                 "filter": [
                     "business",
                     "clipboard"
                 ]
             },
             {
+                "name": "Clipboard",
                 "id": "far fa-clipboard",
-                "name": "Clipboard",
                 "filter": [
                     "business",
                     "clipboard"
                 ]
             },
             {
-                "id": "fas fa-coffee",
                 "name": "Coffee",
+                "id": "fas fa-coffee",
                 "filter": [
                     "business",
                     "coffee"
                 ]
             },
             {
-                "id": "fas fa-columns",
                 "name": "Columns",
+                "id": "fas fa-columns",
                 "filter": [
                     "business",
                     "columns"
                 ]
             },
             {
+                "name": "Compass",
                 "id": "fas fa-compass",
-                "name": "Compass",
                 "filter": [
                     "business",
                     "compass"
                 ]
             },
             {
+                "name": "Compass",
                 "id": "far fa-compass",
-                "name": "Compass",
                 "filter": [
                     "business",
                     "compass"
                 ]
             },
             {
+                "name": "Copy",
                 "id": "fas fa-copy",
-                "name": "Copy",
                 "filter": [
                     "business",
                     "copy"
                 ]
             },
             {
+                "name": "Copy",
                 "id": "far fa-copy",
-                "name": "Copy",
                 "filter": [
                     "business",
                     "copy"
                 ]
             },
             {
+                "name": "Copyright",
                 "id": "fas fa-copyright",
-                "name": "Copyright",
                 "filter": [
                     "business",
                     "copyright"
                 ]
             },
             {
+                "name": "Copyright",
                 "id": "far fa-copyright",
-                "name": "Copyright",
                 "filter": [
                     "business",
                     "copyright"
                 ]
             },
             {
-                "id": "fas fa-cut",
                 "name": "Cut",
+                "id": "fas fa-cut",
                 "filter": [
                     "business",
                     "cut"
                 ]
             },
             {
+                "name": "Edit",
                 "id": "fas fa-edit",
-                "name": "Edit",
                 "filter": [
                     "business",
                     "edit"
                 ]
             },
             {
+                "name": "Edit",
                 "id": "far fa-edit",
-                "name": "Edit",
                 "filter": [
                     "business",
                     "edit"
                 ]
             },
             {
+                "name": "Envelope",
                 "id": "fas fa-envelope",
-                "name": "Envelope",
                 "filter": [
                     "business",
                     "envelope"
                 ]
             },
             {
+                "name": "Envelope",
                 "id": "far fa-envelope",
-                "name": "Envelope",
                 "filter": [
                     "business",
                     "envelope"
                 ]
             },
             {
+                "name": "Envelope-open",
                 "id": "fas fa-envelope-open",
-                "name": "Envelope-open",
                 "filter": [
                     "business",
                     "envelope",
@@ -7524,8 +7402,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Envelope-open",
                 "id": "far fa-envelope-open",
-                "name": "Envelope-open",
                 "filter": [
                     "business",
                     "envelope",
@@ -7533,8 +7411,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-envelope-square",
                 "name": "Envelope-square",
+                "id": "fas fa-envelope-square",
                 "filter": [
                     "business",
                     "envelope",
@@ -7542,40 +7420,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-eraser",
                 "name": "Eraser",
+                "id": "fas fa-eraser",
                 "filter": [
                     "business",
                     "eraser"
                 ]
             },
             {
-                "id": "fas fa-fax",
                 "name": "Fax",
+                "id": "fas fa-fax",
                 "filter": [
                     "business",
                     "fax"
                 ]
             },
             {
+                "name": "File",
                 "id": "fas fa-file",
-                "name": "File",
                 "filter": [
                     "business",
                     "file"
                 ]
             },
             {
+                "name": "File",
                 "id": "far fa-file",
-                "name": "File",
                 "filter": [
                     "business",
                     "file"
                 ]
             },
             {
+                "name": "File-alt",
                 "id": "fas fa-file-alt",
-                "name": "File-alt",
                 "filter": [
                     "business",
                     "file",
@@ -7583,8 +7461,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-alt",
                 "id": "far fa-file-alt",
-                "name": "File-alt",
                 "filter": [
                     "business",
                     "file",
@@ -7592,24 +7470,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Folder",
                 "id": "fas fa-folder",
-                "name": "Folder",
                 "filter": [
                     "business",
                     "folder"
                 ]
             },
             {
+                "name": "Folder",
                 "id": "far fa-folder",
-                "name": "Folder",
                 "filter": [
                     "business",
                     "folder"
                 ]
             },
             {
+                "name": "Folder-open",
                 "id": "fas fa-folder-open",
-                "name": "Folder-open",
                 "filter": [
                     "business",
                     "folder",
@@ -7617,8 +7495,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Folder-open",
                 "id": "far fa-folder-open",
-                "name": "Folder-open",
                 "filter": [
                     "business",
                     "folder",
@@ -7626,40 +7504,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-globe",
                 "name": "Globe",
+                "id": "fas fa-globe",
                 "filter": [
                     "business",
                     "globe"
                 ]
             },
             {
-                "id": "fas fa-industry",
                 "name": "Industry",
+                "id": "fas fa-industry",
                 "filter": [
                     "business",
                     "industry"
                 ]
             },
             {
-                "id": "fas fa-paperclip",
                 "name": "Paperclip",
+                "id": "fas fa-paperclip",
                 "filter": [
                     "business",
                     "paperclip"
                 ]
             },
             {
-                "id": "fas fa-paste",
                 "name": "Paste",
+                "id": "fas fa-paste",
                 "filter": [
                     "business",
                     "paste"
                 ]
             },
             {
-                "id": "fas fa-pen-square",
                 "name": "Pen-square",
+                "id": "fas fa-pen-square",
                 "filter": [
                     "business",
                     "pen",
@@ -7667,8 +7545,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-pencil-alt",
                 "name": "Pencil-alt",
+                "id": "fas fa-pencil-alt",
                 "filter": [
                     "business",
                     "pencil",
@@ -7676,24 +7554,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-percent",
                 "name": "Percent",
+                "id": "fas fa-percent",
                 "filter": [
                     "business",
                     "percent"
                 ]
             },
             {
-                "id": "fas fa-phone",
                 "name": "Phone",
+                "id": "fas fa-phone",
                 "filter": [
                     "business",
                     "phone"
                 ]
             },
             {
-                "id": "fas fa-phone-square",
                 "name": "Phone-square",
+                "id": "fas fa-phone-square",
                 "filter": [
                     "business",
                     "phone",
@@ -7701,57 +7579,48 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-phone-volume",
-                "name": "Phone-volume",
-                "filter": [
-                    "business",
-                    "phone",
-                    "volume"
-                ]
-            },
-            {
+                "name": "Registered",
                 "id": "fas fa-registered",
-                "name": "Registered",
                 "filter": [
                     "business",
                     "registered"
                 ]
             },
             {
+                "name": "Registered",
                 "id": "far fa-registered",
-                "name": "Registered",
                 "filter": [
                     "business",
                     "registered"
                 ]
             },
             {
+                "name": "Save",
                 "id": "fas fa-save",
-                "name": "Save",
                 "filter": [
                     "business",
                     "save"
                 ]
             },
             {
+                "name": "Save",
                 "id": "far fa-save",
-                "name": "Save",
                 "filter": [
                     "business",
                     "save"
                 ]
             },
             {
-                "id": "fas fa-sitemap",
                 "name": "Sitemap",
+                "id": "fas fa-sitemap",
                 "filter": [
                     "business",
                     "sitemap"
                 ]
             },
             {
+                "name": "Sticky-note",
                 "id": "fas fa-sticky-note",
-                "name": "Sticky-note",
                 "filter": [
                     "business",
                     "sticky",
@@ -7759,8 +7628,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Sticky-note",
                 "id": "far fa-sticky-note",
-                "name": "Sticky-note",
                 "filter": [
                     "business",
                     "sticky",
@@ -7768,72 +7637,72 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-suitcase",
                 "name": "Suitcase",
+                "id": "fas fa-suitcase",
                 "filter": [
                     "business",
                     "suitcase"
                 ]
             },
             {
-                "id": "fas fa-table",
                 "name": "Table",
+                "id": "fas fa-table",
                 "filter": [
                     "business",
                     "table"
                 ]
             },
             {
-                "id": "fas fa-tag",
                 "name": "Tag",
+                "id": "fas fa-tag",
                 "filter": [
                     "business",
                     "tag"
                 ]
             },
             {
-                "id": "fas fa-tags",
                 "name": "Tags",
+                "id": "fas fa-tags",
                 "filter": [
                     "business",
                     "tags"
                 ]
             },
             {
-                "id": "fas fa-tasks",
                 "name": "Tasks",
+                "id": "fas fa-tasks",
                 "filter": [
                     "business",
                     "tasks"
                 ]
             },
             {
-                "id": "fas fa-thumbtack",
                 "name": "Thumbtack",
+                "id": "fas fa-thumbtack",
                 "filter": [
                     "business",
                     "thumbtack"
                 ]
             },
             {
-                "id": "fas fa-trademark",
                 "name": "Trademark",
+                "id": "fas fa-trademark",
                 "filter": [
                     "business",
                     "trademark"
                 ]
             },
             {
-                "id": "fas fa-chess",
                 "name": "Chess",
+                "id": "fas fa-chess",
                 "filter": [
                     "chess",
                     "chess"
                 ]
             },
             {
-                "id": "fas fa-chess-bishop",
                 "name": "Chess-bishop",
+                "id": "fas fa-chess-bishop",
                 "filter": [
                     "chess",
                     "chess",
@@ -7841,8 +7710,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-board",
                 "name": "Chess-board",
+                "id": "fas fa-chess-board",
                 "filter": [
                     "chess",
                     "chess",
@@ -7850,8 +7719,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-king",
                 "name": "Chess-king",
+                "id": "fas fa-chess-king",
                 "filter": [
                     "chess",
                     "chess",
@@ -7859,8 +7728,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-knight",
                 "name": "Chess-knight",
+                "id": "fas fa-chess-knight",
                 "filter": [
                     "chess",
                     "chess",
@@ -7868,8 +7737,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-pawn",
                 "name": "Chess-pawn",
+                "id": "fas fa-chess-pawn",
                 "filter": [
                     "chess",
                     "chess",
@@ -7877,8 +7746,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-queen",
                 "name": "Chess-queen",
+                "id": "fas fa-chess-queen",
                 "filter": [
                     "chess",
                     "chess",
@@ -7886,8 +7755,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-chess-rook",
                 "name": "Chess-rook",
+                "id": "fas fa-chess-rook",
                 "filter": [
                     "chess",
                     "chess",
@@ -7895,8 +7764,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-square-full",
                 "name": "Square-full",
+                "id": "fas fa-square-full",
                 "filter": [
                     "chess",
                     "square",
@@ -7904,48 +7773,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-archive",
-                "name": "Archive",
-                "filter": [
-                    "code",
-                    "archive"
-                ]
-            },
-            {
-                "id": "fas fa-barcode",
                 "name": "Barcode",
+                "id": "fas fa-barcode",
                 "filter": [
                     "code",
                     "barcode"
                 ]
             },
             {
-                "id": "fas fa-bath",
                 "name": "Bath",
+                "id": "fas fa-bath",
                 "filter": [
                     "code",
                     "bath"
                 ]
             },
             {
-                "id": "fas fa-bug",
                 "name": "Bug",
+                "id": "fas fa-bug",
                 "filter": [
                     "code",
                     "bug"
                 ]
             },
             {
-                "id": "fas fa-code",
                 "name": "Code",
+                "id": "fas fa-code",
                 "filter": [
                     "code",
                     "code"
                 ]
             },
             {
-                "id": "fas fa-code-branch",
                 "name": "Code-branch",
+                "id": "fas fa-code-branch",
                 "filter": [
                     "code",
                     "code",
@@ -7953,50 +7814,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-coffee",
-                "name": "Coffee",
-                "filter": [
-                    "code",
-                    "coffee"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "code",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "code",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "code",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "code",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
+                "name": "File-code",
                 "id": "fas fa-file-code",
-                "name": "File-code",
                 "filter": [
                     "code",
                     "file",
@@ -8004,8 +7823,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-code",
                 "id": "far fa-file-code",
-                "name": "File-code",
                 "filter": [
                     "code",
                     "file",
@@ -8013,16 +7832,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-filter",
                 "name": "Filter",
+                "id": "fas fa-filter",
                 "filter": [
                     "code",
                     "filter"
                 ]
             },
             {
-                "id": "fas fa-fire-extinguisher",
                 "name": "Fire-extinguisher",
+                "id": "fas fa-fire-extinguisher",
                 "filter": [
                     "code",
                     "fire",
@@ -8030,74 +7849,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "code",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "code",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "code",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "code",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
+                "name": "Keyboard",
                 "id": "fas fa-keyboard",
-                "name": "Keyboard",
                 "filter": [
                     "code",
                     "keyboard"
                 ]
             },
             {
+                "name": "Keyboard",
                 "id": "far fa-keyboard",
-                "name": "Keyboard",
                 "filter": [
                     "code",
                     "keyboard"
                 ]
             },
             {
-                "id": "fas fa-microchip",
                 "name": "Microchip",
+                "id": "fas fa-microchip",
                 "filter": [
                     "code",
                     "microchip"
                 ]
             },
             {
-                "id": "fas fa-qrcode",
                 "name": "Qrcode",
+                "id": "fas fa-qrcode",
                 "filter": [
                     "code",
                     "qrcode"
                 ]
             },
             {
-                "id": "fas fa-shield-alt",
                 "name": "Shield-alt",
+                "id": "fas fa-shield-alt",
                 "filter": [
                     "code",
                     "shield",
@@ -8105,24 +7890,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-sitemap",
-                "name": "Sitemap",
-                "filter": [
-                    "code",
-                    "sitemap"
-                ]
-            },
-            {
-                "id": "fas fa-terminal",
                 "name": "Terminal",
+                "id": "fas fa-terminal",
                 "filter": [
                     "code",
                     "terminal"
                 ]
             },
             {
-                "id": "fas fa-user-secret",
                 "name": "User-secret",
+                "id": "fas fa-user-secret",
                 "filter": [
                     "code",
                     "user",
@@ -8130,8 +7907,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-close",
                 "id": "fas fa-window-close",
-                "name": "Window-close",
                 "filter": [
                     "code",
                     "window",
@@ -8139,8 +7916,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-close",
                 "id": "far fa-window-close",
-                "name": "Window-close",
                 "filter": [
                     "code",
                     "window",
@@ -8148,8 +7925,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-maximize",
                 "id": "fas fa-window-maximize",
-                "name": "Window-maximize",
                 "filter": [
                     "code",
                     "window",
@@ -8157,8 +7934,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-maximize",
                 "id": "far fa-window-maximize",
-                "name": "Window-maximize",
                 "filter": [
                     "code",
                     "window",
@@ -8166,8 +7943,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-minimize",
                 "id": "fas fa-window-minimize",
-                "name": "Window-minimize",
                 "filter": [
                     "code",
                     "window",
@@ -8175,8 +7952,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-minimize",
                 "id": "far fa-window-minimize",
-                "name": "Window-minimize",
                 "filter": [
                     "code",
                     "window",
@@ -8184,8 +7961,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-restore",
                 "id": "fas fa-window-restore",
-                "name": "Window-restore",
                 "filter": [
                     "code",
                     "window",
@@ -8193,8 +7970,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Window-restore",
                 "id": "far fa-window-restore",
-                "name": "Window-restore",
                 "filter": [
                     "code",
                     "window",
@@ -8202,89 +7979,32 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-address-book",
-                "name": "Address-book",
-                "filter": [
-                    "communication",
-                    "address",
-                    "book"
-                ]
-            },
-            {
-                "id": "far fa-address-book",
-                "name": "Address-book",
-                "filter": [
-                    "communication",
-                    "address",
-                    "book"
-                ]
-            },
-            {
-                "id": "fas fa-address-card",
-                "name": "Address-card",
-                "filter": [
-                    "communication",
-                    "address",
-                    "card"
-                ]
-            },
-            {
-                "id": "far fa-address-card",
-                "name": "Address-card",
-                "filter": [
-                    "communication",
-                    "address",
-                    "card"
-                ]
-            },
-            {
-                "id": "fas fa-american-sign-language-interpreting",
-                "name": "American-sign-language-interpreting",
-                "filter": [
-                    "communication",
-                    "american",
-                    "sign",
-                    "language",
-                    "interpreting"
-                ]
-            },
-            {
-                "id": "fas fa-assistive-listening-systems",
-                "name": "Assistive-listening-systems",
-                "filter": [
-                    "communication",
-                    "assistive",
-                    "listening",
-                    "systems"
-                ]
-            },
-            {
-                "id": "fas fa-at",
                 "name": "At",
+                "id": "fas fa-at",
                 "filter": [
                     "communication",
                     "at"
                 ]
             },
             {
+                "name": "Bell",
                 "id": "fas fa-bell",
-                "name": "Bell",
                 "filter": [
                     "communication",
                     "bell"
                 ]
             },
             {
+                "name": "Bell",
                 "id": "far fa-bell",
-                "name": "Bell",
                 "filter": [
                     "communication",
                     "bell"
                 ]
             },
             {
+                "name": "Bell-slash",
                 "id": "fas fa-bell-slash",
-                "name": "Bell-slash",
                 "filter": [
                     "communication",
                     "bell",
@@ -8292,8 +8012,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Bell-slash",
                 "id": "far fa-bell-slash",
-                "name": "Bell-slash",
                 "filter": [
                     "communication",
                     "bell",
@@ -8301,16 +8021,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-bluetooth",
                 "name": "Bluetooth",
+                "id": "fab fa-bluetooth",
                 "filter": [
                     "communication",
                     "bluetooth"
                 ]
             },
             {
-                "id": "fab fa-bluetooth-b",
                 "name": "Bluetooth-b",
+                "id": "fab fa-bluetooth-b",
                 "filter": [
                     "communication",
                     "bluetooth",
@@ -8318,32 +8038,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bullhorn",
-                "name": "Bullhorn",
-                "filter": [
-                    "communication",
-                    "bullhorn"
-                ]
-            },
-            {
+                "name": "Comment",
                 "id": "fas fa-comment",
-                "name": "Comment",
                 "filter": [
                     "communication",
                     "comment"
                 ]
             },
             {
+                "name": "Comment",
                 "id": "far fa-comment",
-                "name": "Comment",
                 "filter": [
                     "communication",
                     "comment"
                 ]
             },
             {
+                "name": "Comment-alt",
                 "id": "fas fa-comment-alt",
-                "name": "Comment-alt",
                 "filter": [
                     "communication",
                     "comment",
@@ -8351,8 +8063,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Comment-alt",
                 "id": "far fa-comment-alt",
-                "name": "Comment-alt",
                 "filter": [
                     "communication",
                     "comment",
@@ -8360,116 +8072,48 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Comments",
                 "id": "fas fa-comments",
-                "name": "Comments",
                 "filter": [
                     "communication",
                     "comments"
                 ]
             },
             {
+                "name": "Comments",
                 "id": "far fa-comments",
-                "name": "Comments",
                 "filter": [
                     "communication",
                     "comments"
                 ]
             },
             {
-                "id": "fas fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "communication",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "far fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "communication",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "fas fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "communication",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "communication",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-envelope-square",
-                "name": "Envelope-square",
-                "filter": [
-                    "communication",
-                    "envelope",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-fax",
-                "name": "Fax",
-                "filter": [
-                    "communication",
-                    "fax"
-                ]
-            },
-            {
-                "id": "fas fa-inbox",
                 "name": "Inbox",
+                "id": "fas fa-inbox",
                 "filter": [
                     "communication",
                     "inbox"
                 ]
             },
             {
-                "id": "fas fa-language",
                 "name": "Language",
+                "id": "fas fa-language",
                 "filter": [
                     "communication",
                     "language"
                 ]
             },
             {
-                "id": "fas fa-microphone",
-                "name": "Microphone",
-                "filter": [
-                    "communication",
-                    "microphone"
-                ]
-            },
-            {
-                "id": "fas fa-microphone-slash",
-                "name": "Microphone-slash",
-                "filter": [
-                    "communication",
-                    "microphone",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-mobile",
                 "name": "Mobile",
+                "id": "fas fa-mobile",
                 "filter": [
                     "communication",
                     "mobile"
                 ]
             },
             {
-                "id": "fas fa-mobile-alt",
                 "name": "Mobile-alt",
+                "id": "fas fa-mobile-alt",
                 "filter": [
                     "communication",
                     "mobile",
@@ -8477,8 +8121,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Paper-plane",
                 "id": "fas fa-paper-plane",
-                "name": "Paper-plane",
                 "filter": [
                     "communication",
                     "paper",
@@ -8486,8 +8130,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Paper-plane",
                 "id": "far fa-paper-plane",
-                "name": "Paper-plane",
                 "filter": [
                     "communication",
                     "paper",
@@ -8495,164 +8139,56 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-phone",
-                "name": "Phone",
-                "filter": [
-                    "communication",
-                    "phone"
-                ]
-            },
-            {
-                "id": "fas fa-phone-square",
-                "name": "Phone-square",
-                "filter": [
-                    "communication",
-                    "phone",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-phone-volume",
-                "name": "Phone-volume",
-                "filter": [
-                    "communication",
-                    "phone",
-                    "volume"
-                ]
-            },
-            {
-                "id": "fas fa-rss",
-                "name": "Rss",
-                "filter": [
-                    "communication",
-                    "rss"
-                ]
-            },
-            {
-                "id": "fas fa-rss-square",
-                "name": "Rss-square",
-                "filter": [
-                    "communication",
-                    "rss",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-tty",
-                "name": "Tty",
-                "filter": [
-                    "communication",
-                    "tty"
-                ]
-            },
-            {
-                "id": "fas fa-wifi",
                 "name": "Wifi",
+                "id": "fas fa-wifi",
                 "filter": [
                     "communication",
                     "wifi"
                 ]
             },
             {
-                "id": "fas fa-desktop",
                 "name": "Desktop",
+                "id": "fas fa-desktop",
                 "filter": [
                     "computers",
                     "desktop"
                 ]
             },
             {
-                "id": "fas fa-download",
-                "name": "Download",
-                "filter": [
-                    "computers",
-                    "download"
-                ]
-            },
-            {
+                "name": "Hdd",
                 "id": "fas fa-hdd",
-                "name": "Hdd",
                 "filter": [
                     "computers",
                     "hdd"
                 ]
             },
             {
+                "name": "Hdd",
                 "id": "far fa-hdd",
-                "name": "Hdd",
                 "filter": [
                     "computers",
                     "hdd"
                 ]
             },
             {
-                "id": "fas fa-headphones",
-                "name": "Headphones",
-                "filter": [
-                    "computers",
-                    "headphones"
-                ]
-            },
-            {
-                "id": "fas fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "computers",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "far fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "computers",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "fas fa-laptop",
                 "name": "Laptop",
+                "id": "fas fa-laptop",
                 "filter": [
                     "computers",
                     "laptop"
                 ]
             },
             {
-                "id": "fas fa-microchip",
-                "name": "Microchip",
-                "filter": [
-                    "computers",
-                    "microchip"
-                ]
-            },
-            {
-                "id": "fas fa-mobile",
-                "name": "Mobile",
-                "filter": [
-                    "computers",
-                    "mobile"
-                ]
-            },
-            {
-                "id": "fas fa-mobile-alt",
-                "name": "Mobile-alt",
-                "filter": [
-                    "computers",
-                    "mobile",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-plug",
                 "name": "Plug",
+                "id": "fas fa-plug",
                 "filter": [
                     "computers",
                     "plug"
                 ]
             },
             {
-                "id": "fas fa-power-off",
                 "name": "Power-off",
+                "id": "fas fa-power-off",
                 "filter": [
                     "computers",
                     "power",
@@ -8660,48 +8196,32 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-print",
                 "name": "Print",
+                "id": "fas fa-print",
                 "filter": [
                     "computers",
                     "print"
                 ]
             },
             {
-                "id": "fas fa-save",
-                "name": "Save",
-                "filter": [
-                    "computers",
-                    "save"
-                ]
-            },
-            {
-                "id": "far fa-save",
-                "name": "Save",
-                "filter": [
-                    "computers",
-                    "save"
-                ]
-            },
-            {
-                "id": "fas fa-server",
                 "name": "Server",
+                "id": "fas fa-server",
                 "filter": [
                     "computers",
                     "server"
                 ]
             },
             {
-                "id": "fas fa-tablet",
                 "name": "Tablet",
+                "id": "fas fa-tablet",
                 "filter": [
                     "computers",
                     "tablet"
                 ]
             },
             {
-                "id": "fas fa-tablet-alt",
                 "name": "Tablet-alt",
+                "id": "fas fa-tablet-alt",
                 "filter": [
                     "computers",
                     "tablet",
@@ -8709,40 +8229,32 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-tv",
                 "name": "Tv",
+                "id": "fas fa-tv",
                 "filter": [
                     "computers",
                     "tv"
                 ]
             },
             {
-                "id": "fas fa-upload",
-                "name": "Upload",
-                "filter": [
-                    "computers",
-                    "upload"
-                ]
-            },
-            {
-                "id": "fab fa-bitcoin",
                 "name": "Bitcoin",
+                "id": "fab fa-bitcoin",
                 "filter": [
                     "currency",
                     "bitcoin"
                 ]
             },
             {
-                "id": "fab fa-btc",
                 "name": "Btc",
+                "id": "fab fa-btc",
                 "filter": [
                     "currency",
                     "btc"
                 ]
             },
             {
-                "id": "fas fa-dollar-sign",
                 "name": "Dollar-sign",
+                "id": "fas fa-dollar-sign",
                 "filter": [
                     "currency",
                     "dollar",
@@ -8750,8 +8262,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-euro-sign",
                 "name": "Euro-sign",
+                "id": "fas fa-euro-sign",
                 "filter": [
                     "currency",
                     "euro",
@@ -8759,16 +8271,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-gg",
                 "name": "Gg",
+                "id": "fab fa-gg",
                 "filter": [
                     "currency",
                     "gg"
                 ]
             },
             {
-                "id": "fab fa-gg-circle",
                 "name": "Gg-circle",
+                "id": "fab fa-gg-circle",
                 "filter": [
                     "currency",
                     "gg",
@@ -8776,8 +8288,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-lira-sign",
                 "name": "Lira-sign",
+                "id": "fas fa-lira-sign",
                 "filter": [
                     "currency",
                     "lira",
@@ -8785,8 +8297,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Money-bill-alt",
                 "id": "fas fa-money-bill-alt",
-                "name": "Money-bill-alt",
                 "filter": [
                     "currency",
                     "money",
@@ -8795,8 +8307,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Money-bill-alt",
                 "id": "far fa-money-bill-alt",
-                "name": "Money-bill-alt",
                 "filter": [
                     "currency",
                     "money",
@@ -8805,8 +8317,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-pound-sign",
                 "name": "Pound-sign",
+                "id": "fas fa-pound-sign",
                 "filter": [
                     "currency",
                     "pound",
@@ -8814,8 +8326,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-ruble-sign",
                 "name": "Ruble-sign",
+                "id": "fas fa-ruble-sign",
                 "filter": [
                     "currency",
                     "ruble",
@@ -8823,8 +8335,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-rupee-sign",
                 "name": "Rupee-sign",
+                "id": "fas fa-rupee-sign",
                 "filter": [
                     "currency",
                     "rupee",
@@ -8832,8 +8344,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-shekel-sign",
                 "name": "Shekel-sign",
+                "id": "fas fa-shekel-sign",
                 "filter": [
                     "currency",
                     "shekel",
@@ -8841,8 +8353,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-won-sign",
                 "name": "Won-sign",
+                "id": "fas fa-won-sign",
                 "filter": [
                     "currency",
                     "won",
@@ -8850,8 +8362,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-yen-sign",
                 "name": "Yen-sign",
+                "id": "fas fa-yen-sign",
                 "filter": [
                     "currency",
                     "yen",
@@ -8859,76 +8371,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "date & time",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "date & time",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "date & time",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "date & time",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "date & time",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "far fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "date & time",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "date & time",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "date & time",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
+                "name": "Calendar-check",
                 "id": "fas fa-calendar-check",
-                "name": "Calendar-check",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8936,8 +8380,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-check",
                 "id": "far fa-calendar-check",
-                "name": "Calendar-check",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8945,8 +8389,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-minus",
                 "id": "fas fa-calendar-minus",
-                "name": "Calendar-minus",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8954,8 +8398,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-minus",
                 "id": "far fa-calendar-minus",
-                "name": "Calendar-minus",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8963,8 +8407,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-plus",
                 "id": "fas fa-calendar-plus",
-                "name": "Calendar-plus",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8972,8 +8416,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-plus",
                 "id": "far fa-calendar-plus",
-                "name": "Calendar-plus",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8981,8 +8425,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-times",
                 "id": "fas fa-calendar-times",
-                "name": "Calendar-times",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8990,8 +8434,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Calendar-times",
                 "id": "far fa-calendar-times",
-                "name": "Calendar-times",
                 "filter": [
                     "date & time",
                     "calendar",
@@ -8999,40 +8443,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Clock",
                 "id": "fas fa-clock",
-                "name": "Clock",
                 "filter": [
                     "date & time",
                     "clock"
                 ]
             },
             {
+                "name": "Clock",
                 "id": "far fa-clock",
-                "name": "Clock",
                 "filter": [
                     "date & time",
                     "clock"
                 ]
             },
             {
+                "name": "Hourglass",
                 "id": "fas fa-hourglass",
-                "name": "Hourglass",
                 "filter": [
                     "date & time",
                     "hourglass"
                 ]
             },
             {
+                "name": "Hourglass",
                 "id": "far fa-hourglass",
-                "name": "Hourglass",
                 "filter": [
                     "date & time",
                     "hourglass"
                 ]
             },
             {
-                "id": "fas fa-hourglass-end",
                 "name": "Hourglass-end",
+                "id": "fas fa-hourglass-end",
                 "filter": [
                     "date & time",
                     "hourglass",
@@ -9040,8 +8484,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-hourglass-half",
                 "name": "Hourglass-half",
+                "id": "fas fa-hourglass-half",
                 "filter": [
                     "date & time",
                     "hourglass",
@@ -9049,8 +8493,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-hourglass-start",
                 "name": "Hourglass-start",
+                "id": "fas fa-hourglass-start",
                 "filter": [
                     "date & time",
                     "hourglass",
@@ -9058,112 +8502,64 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-stopwatch",
                 "name": "Stopwatch",
+                "id": "fas fa-stopwatch",
                 "filter": [
                     "date & time",
                     "stopwatch"
                 ]
             },
             {
-                "id": "fas fa-adjust",
                 "name": "Adjust",
+                "id": "fas fa-adjust",
                 "filter": [
                     "design",
                     "adjust"
                 ]
             },
             {
+                "name": "Clone",
                 "id": "fas fa-clone",
-                "name": "Clone",
                 "filter": [
                     "design",
                     "clone"
                 ]
             },
             {
+                "name": "Clone",
                 "id": "far fa-clone",
-                "name": "Clone",
                 "filter": [
                     "design",
                     "clone"
                 ]
             },
             {
-                "id": "fas fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "design",
-                    "copy"
-                ]
-            },
-            {
-                "id": "far fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "design",
-                    "copy"
-                ]
-            },
-            {
-                "id": "fas fa-crop",
                 "name": "Crop",
+                "id": "fas fa-crop",
                 "filter": [
                     "design",
                     "crop"
                 ]
             },
             {
-                "id": "fas fa-crosshairs",
                 "name": "Crosshairs",
+                "id": "fas fa-crosshairs",
                 "filter": [
                     "design",
                     "crosshairs"
                 ]
             },
             {
-                "id": "fas fa-cut",
-                "name": "Cut",
-                "filter": [
-                    "design",
-                    "cut"
-                ]
-            },
-            {
-                "id": "fas fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "design",
-                    "edit"
-                ]
-            },
-            {
-                "id": "far fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "design",
-                    "edit"
-                ]
-            },
-            {
-                "id": "fas fa-eraser",
-                "name": "Eraser",
-                "filter": [
-                    "design",
-                    "eraser"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
                 "name": "Eye",
+                "id": "fas fa-eye",
                 "filter": [
                     "design",
                     "eye"
                 ]
             },
             {
-                "id": "fas fa-eye-dropper",
                 "name": "Eye-dropper",
+                "id": "fas fa-eye-dropper",
                 "filter": [
                     "design",
                     "eye",
@@ -9171,8 +8567,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Eye-slash",
                 "id": "fas fa-eye-slash",
-                "name": "Eye-slash",
                 "filter": [
                     "design",
                     "eye",
@@ -9180,8 +8576,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Eye-slash",
                 "id": "far fa-eye-slash",
-                "name": "Eye-slash",
                 "filter": [
                     "design",
                     "eye",
@@ -9189,8 +8585,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Object-group",
                 "id": "fas fa-object-group",
-                "name": "Object-group",
                 "filter": [
                     "design",
                     "object",
@@ -9198,8 +8594,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Object-group",
                 "id": "far fa-object-group",
-                "name": "Object-group",
                 "filter": [
                     "design",
                     "object",
@@ -9207,8 +8603,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Object-ungroup",
                 "id": "fas fa-object-ungroup",
-                "name": "Object-ungroup",
                 "filter": [
                     "design",
                     "object",
@@ -9216,8 +8612,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Object-ungroup",
                 "id": "far fa-object-ungroup",
-                "name": "Object-ungroup",
                 "filter": [
                     "design",
                     "object",
@@ -9225,8 +8621,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-paint-brush",
                 "name": "Paint-brush",
+                "id": "fas fa-paint-brush",
                 "filter": [
                     "design",
                     "paint",
@@ -9234,49 +8630,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-paste",
-                "name": "Paste",
-                "filter": [
-                    "design",
-                    "paste"
-                ]
-            },
-            {
-                "id": "fas fa-pencil-alt",
-                "name": "Pencil-alt",
-                "filter": [
-                    "design",
-                    "pencil",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-save",
-                "name": "Save",
-                "filter": [
-                    "design",
-                    "save"
-                ]
-            },
-            {
-                "id": "far fa-save",
-                "name": "Save",
-                "filter": [
-                    "design",
-                    "save"
-                ]
-            },
-            {
-                "id": "fas fa-tint",
                 "name": "Tint",
+                "id": "fas fa-tint",
                 "filter": [
                     "design",
                     "tint"
                 ]
             },
             {
-                "id": "fas fa-align-center",
                 "name": "Align-center",
+                "id": "fas fa-align-center",
                 "filter": [
                     "editors",
                     "align",
@@ -9284,8 +8647,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-align-justify",
                 "name": "Align-justify",
+                "id": "fas fa-align-justify",
                 "filter": [
                     "editors",
                     "align",
@@ -9293,8 +8656,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-align-left",
                 "name": "Align-left",
+                "id": "fas fa-align-left",
                 "filter": [
                     "editors",
                     "align",
@@ -9302,8 +8665,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-align-right",
                 "name": "Align-right",
+                "id": "fas fa-align-right",
                 "filter": [
                     "editors",
                     "align",
@@ -9311,154 +8674,32 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bold",
                 "name": "Bold",
+                "id": "fas fa-bold",
                 "filter": [
                     "editors",
                     "bold"
                 ]
             },
             {
-                "id": "fas fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "editors",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "far fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "editors",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "fas fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "editors",
-                    "clone"
-                ]
-            },
-            {
-                "id": "far fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "editors",
-                    "clone"
-                ]
-            },
-            {
-                "id": "fas fa-columns",
-                "name": "Columns",
-                "filter": [
-                    "editors",
-                    "columns"
-                ]
-            },
-            {
-                "id": "fas fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "editors",
-                    "copy"
-                ]
-            },
-            {
-                "id": "far fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "editors",
-                    "copy"
-                ]
-            },
-            {
-                "id": "fas fa-cut",
-                "name": "Cut",
-                "filter": [
-                    "editors",
-                    "cut"
-                ]
-            },
-            {
-                "id": "fas fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "editors",
-                    "edit"
-                ]
-            },
-            {
-                "id": "far fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "editors",
-                    "edit"
-                ]
-            },
-            {
-                "id": "fas fa-eraser",
-                "name": "Eraser",
-                "filter": [
-                    "editors",
-                    "eraser"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "editors",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "editors",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "editors",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "editors",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-font",
                 "name": "Font",
+                "id": "fas fa-font",
                 "filter": [
                     "editors",
                     "font"
                 ]
             },
             {
-                "id": "fas fa-heading",
                 "name": "Heading",
+                "id": "fas fa-heading",
                 "filter": [
                     "editors",
                     "heading"
                 ]
             },
             {
-                "id": "fas fa-i-cursor",
                 "name": "I-cursor",
+                "id": "fas fa-i-cursor",
                 "filter": [
                     "editors",
                     "i",
@@ -9466,40 +8707,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-indent",
                 "name": "Indent",
+                "id": "fas fa-indent",
                 "filter": [
                     "editors",
                     "indent"
                 ]
             },
             {
-                "id": "fas fa-italic",
                 "name": "Italic",
+                "id": "fas fa-italic",
                 "filter": [
                     "editors",
                     "italic"
                 ]
             },
             {
-                "id": "fas fa-link",
                 "name": "Link",
+                "id": "fas fa-link",
                 "filter": [
                     "editors",
                     "link"
                 ]
             },
             {
-                "id": "fas fa-list",
                 "name": "List",
+                "id": "fas fa-list",
                 "filter": [
                     "editors",
                     "list"
                 ]
             },
             {
+                "name": "List-alt",
                 "id": "fas fa-list-alt",
-                "name": "List-alt",
                 "filter": [
                     "editors",
                     "list",
@@ -9507,8 +8748,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "List-alt",
                 "id": "far fa-list-alt",
-                "name": "List-alt",
                 "filter": [
                     "editors",
                     "list",
@@ -9516,8 +8757,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-list-ol",
                 "name": "List-ol",
+                "id": "fas fa-list-ol",
                 "filter": [
                     "editors",
                     "list",
@@ -9525,8 +8766,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-list-ul",
                 "name": "List-ul",
+                "id": "fas fa-list-ul",
                 "filter": [
                     "editors",
                     "list",
@@ -9534,75 +8775,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-outdent",
                 "name": "Outdent",
+                "id": "fas fa-outdent",
                 "filter": [
                     "editors",
                     "outdent"
                 ]
             },
             {
-                "id": "fas fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "editors",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "far fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "editors",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "fas fa-paperclip",
-                "name": "Paperclip",
-                "filter": [
-                    "editors",
-                    "paperclip"
-                ]
-            },
-            {
-                "id": "fas fa-paragraph",
                 "name": "Paragraph",
+                "id": "fas fa-paragraph",
                 "filter": [
                     "editors",
                     "paragraph"
                 ]
             },
             {
-                "id": "fas fa-paste",
-                "name": "Paste",
-                "filter": [
-                    "editors",
-                    "paste"
-                ]
-            },
-            {
-                "id": "fas fa-pencil-alt",
-                "name": "Pencil-alt",
-                "filter": [
-                    "editors",
-                    "pencil",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-print",
-                "name": "Print",
-                "filter": [
-                    "editors",
-                    "print"
-                ]
-            },
-            {
-                "id": "fas fa-quote-left",
                 "name": "Quote-left",
+                "id": "fas fa-quote-left",
                 "filter": [
                     "editors",
                     "quote",
@@ -9610,8 +8800,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-quote-right",
                 "name": "Quote-right",
+                "id": "fas fa-quote-right",
                 "filter": [
                     "editors",
                     "quote",
@@ -9619,133 +8809,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-redo",
-                "name": "Redo",
-                "filter": [
-                    "editors",
-                    "redo"
-                ]
-            },
-            {
-                "id": "fas fa-redo-alt",
-                "name": "Redo-alt",
-                "filter": [
-                    "editors",
-                    "redo",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-reply",
-                "name": "Reply",
-                "filter": [
-                    "editors",
-                    "reply"
-                ]
-            },
-            {
-                "id": "fas fa-reply-all",
-                "name": "Reply-all",
-                "filter": [
-                    "editors",
-                    "reply",
-                    "all"
-                ]
-            },
-            {
-                "id": "fas fa-share",
-                "name": "Share",
-                "filter": [
-                    "editors",
-                    "share"
-                ]
-            },
-            {
-                "id": "fas fa-strikethrough",
                 "name": "Strikethrough",
+                "id": "fas fa-strikethrough",
                 "filter": [
                     "editors",
                     "strikethrough"
                 ]
             },
             {
-                "id": "fas fa-subscript",
                 "name": "Subscript",
+                "id": "fas fa-subscript",
                 "filter": [
                     "editors",
                     "subscript"
                 ]
             },
             {
-                "id": "fas fa-superscript",
                 "name": "Superscript",
+                "id": "fas fa-superscript",
                 "filter": [
                     "editors",
                     "superscript"
                 ]
             },
             {
-                "id": "fas fa-sync",
-                "name": "Sync",
-                "filter": [
-                    "editors",
-                    "sync"
-                ]
-            },
-            {
-                "id": "fas fa-sync-alt",
-                "name": "Sync-alt",
-                "filter": [
-                    "editors",
-                    "sync",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-table",
-                "name": "Table",
-                "filter": [
-                    "editors",
-                    "table"
-                ]
-            },
-            {
-                "id": "fas fa-tasks",
-                "name": "Tasks",
-                "filter": [
-                    "editors",
-                    "tasks"
-                ]
-            },
-            {
-                "id": "fas fa-text-height",
-                "name": "Text-height",
-                "filter": [
-                    "editors",
-                    "text",
-                    "height"
-                ]
-            },
-            {
-                "id": "fas fa-text-width",
-                "name": "Text-width",
-                "filter": [
-                    "editors",
-                    "text",
-                    "width"
-                ]
-            },
-            {
-                "id": "fas fa-th",
                 "name": "Th",
+                "id": "fas fa-th",
                 "filter": [
                     "editors",
                     "th"
                 ]
             },
             {
-                "id": "fas fa-th-large",
                 "name": "Th-large",
+                "id": "fas fa-th-large",
                 "filter": [
                     "editors",
                     "th",
@@ -9753,8 +8850,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-th-list",
                 "name": "Th-list",
+                "id": "fas fa-th-list",
                 "filter": [
                     "editors",
                     "th",
@@ -9762,16 +8859,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-trash",
                 "name": "Trash",
+                "id": "fas fa-trash",
                 "filter": [
                     "editors",
                     "trash"
                 ]
             },
             {
+                "name": "Trash-alt",
                 "id": "fas fa-trash-alt",
-                "name": "Trash-alt",
                 "filter": [
                     "editors",
                     "trash",
@@ -9779,8 +8876,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Trash-alt",
                 "id": "far fa-trash-alt",
-                "name": "Trash-alt",
                 "filter": [
                     "editors",
                     "trash",
@@ -9788,123 +8885,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-underline",
                 "name": "Underline",
+                "id": "fas fa-underline",
                 "filter": [
                     "editors",
                     "underline"
                 ]
             },
             {
-                "id": "fas fa-undo",
-                "name": "Undo",
-                "filter": [
-                    "editors",
-                    "undo"
-                ]
-            },
-            {
-                "id": "fas fa-undo-alt",
-                "name": "Undo-alt",
-                "filter": [
-                    "editors",
-                    "undo",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-unlink",
                 "name": "Unlink",
+                "id": "fas fa-unlink",
                 "filter": [
                     "editors",
                     "unlink"
                 ]
             },
             {
-                "id": "fas fa-archive",
-                "name": "Archive",
-                "filter": [
-                    "files",
-                    "archive"
-                ]
-            },
-            {
-                "id": "fas fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "files",
-                    "clone"
-                ]
-            },
-            {
-                "id": "far fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "files",
-                    "clone"
-                ]
-            },
-            {
-                "id": "fas fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "files",
-                    "copy"
-                ]
-            },
-            {
-                "id": "far fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "files",
-                    "copy"
-                ]
-            },
-            {
-                "id": "fas fa-cut",
-                "name": "Cut",
-                "filter": [
-                    "files",
-                    "cut"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "files",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "files",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "files",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "files",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
+                "name": "File-archive",
                 "id": "fas fa-file-archive",
-                "name": "File-archive",
                 "filter": [
                     "files",
                     "file",
@@ -9912,8 +8910,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-archive",
                 "id": "far fa-file-archive",
-                "name": "File-archive",
                 "filter": [
                     "files",
                     "file",
@@ -9921,44 +8919,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-file-audio",
-                "name": "File-audio",
-                "filter": [
-                    "files",
-                    "file",
-                    "audio"
-                ]
-            },
-            {
-                "id": "far fa-file-audio",
-                "name": "File-audio",
-                "filter": [
-                    "files",
-                    "file",
-                    "audio"
-                ]
-            },
-            {
-                "id": "fas fa-file-code",
-                "name": "File-code",
-                "filter": [
-                    "files",
-                    "file",
-                    "code"
-                ]
-            },
-            {
-                "id": "far fa-file-code",
-                "name": "File-code",
-                "filter": [
-                    "files",
-                    "file",
-                    "code"
-                ]
-            },
-            {
+                "name": "File-excel",
                 "id": "fas fa-file-excel",
-                "name": "File-excel",
                 "filter": [
                     "files",
                     "file",
@@ -9966,8 +8928,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-excel",
                 "id": "far fa-file-excel",
-                "name": "File-excel",
                 "filter": [
                     "files",
                     "file",
@@ -9975,8 +8937,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-image",
                 "id": "fas fa-file-image",
-                "name": "File-image",
                 "filter": [
                     "files",
                     "file",
@@ -9984,8 +8946,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-image",
                 "id": "far fa-file-image",
-                "name": "File-image",
                 "filter": [
                     "files",
                     "file",
@@ -9993,8 +8955,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-pdf",
                 "id": "fas fa-file-pdf",
-                "name": "File-pdf",
                 "filter": [
                     "files",
                     "file",
@@ -10002,8 +8964,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-pdf",
                 "id": "far fa-file-pdf",
-                "name": "File-pdf",
                 "filter": [
                     "files",
                     "file",
@@ -10011,8 +8973,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-powerpoint",
                 "id": "fas fa-file-powerpoint",
-                "name": "File-powerpoint",
                 "filter": [
                     "files",
                     "file",
@@ -10020,8 +8982,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-powerpoint",
                 "id": "far fa-file-powerpoint",
-                "name": "File-powerpoint",
                 "filter": [
                     "files",
                     "file",
@@ -10029,26 +8991,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-file-video",
-                "name": "File-video",
-                "filter": [
-                    "files",
-                    "file",
-                    "video"
-                ]
-            },
-            {
-                "id": "far fa-file-video",
-                "name": "File-video",
-                "filter": [
-                    "files",
-                    "file",
-                    "video"
-                ]
-            },
-            {
+                "name": "File-word",
                 "id": "fas fa-file-word",
-                "name": "File-word",
                 "filter": [
                     "files",
                     "file",
@@ -10056,8 +9000,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "File-word",
                 "id": "far fa-file-word",
-                "name": "File-word",
                 "filter": [
                     "files",
                     "file",
@@ -10065,100 +9009,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "files",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "files",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "files",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "files",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-paste",
-                "name": "Paste",
-                "filter": [
-                    "files",
-                    "paste"
-                ]
-            },
-            {
-                "id": "fas fa-save",
-                "name": "Save",
-                "filter": [
-                    "files",
-                    "save"
-                ]
-            },
-            {
-                "id": "far fa-save",
-                "name": "Save",
-                "filter": [
-                    "files",
-                    "save"
-                ]
-            },
-            {
-                "id": "fas fa-sticky-note",
-                "name": "Sticky-note",
-                "filter": [
-                    "files",
-                    "sticky",
-                    "note"
-                ]
-            },
-            {
-                "id": "far fa-sticky-note",
-                "name": "Sticky-note",
-                "filter": [
-                    "files",
-                    "sticky",
-                    "note"
-                ]
-            },
-            {
-                "id": "fas fa-genderless",
                 "name": "Genderless",
+                "id": "fas fa-genderless",
                 "filter": [
                     "genders",
                     "genderless"
                 ]
             },
             {
-                "id": "fas fa-mars",
                 "name": "Mars",
+                "id": "fas fa-mars",
                 "filter": [
                     "genders",
                     "mars"
                 ]
             },
             {
-                "id": "fas fa-mars-double",
                 "name": "Mars-double",
+                "id": "fas fa-mars-double",
                 "filter": [
                     "genders",
                     "mars",
@@ -10166,8 +9034,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-mars-stroke",
                 "name": "Mars-stroke",
+                "id": "fas fa-mars-stroke",
                 "filter": [
                     "genders",
                     "mars",
@@ -10175,8 +9043,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-mars-stroke-h",
                 "name": "Mars-stroke-h",
+                "id": "fas fa-mars-stroke-h",
                 "filter": [
                     "genders",
                     "mars",
@@ -10185,8 +9053,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-mars-stroke-v",
                 "name": "Mars-stroke-v",
+                "id": "fas fa-mars-stroke-v",
                 "filter": [
                     "genders",
                     "mars",
@@ -10195,32 +9063,32 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-mercury",
                 "name": "Mercury",
+                "id": "fas fa-mercury",
                 "filter": [
                     "genders",
                     "mercury"
                 ]
             },
             {
-                "id": "fas fa-neuter",
                 "name": "Neuter",
+                "id": "fas fa-neuter",
                 "filter": [
                     "genders",
                     "neuter"
                 ]
             },
             {
-                "id": "fas fa-transgender",
                 "name": "Transgender",
+                "id": "fas fa-transgender",
                 "filter": [
                     "genders",
                     "transgender"
                 ]
             },
             {
-                "id": "fas fa-transgender-alt",
                 "name": "Transgender-alt",
+                "id": "fas fa-transgender-alt",
                 "filter": [
                     "genders",
                     "transgender",
@@ -10228,16 +9096,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-venus",
                 "name": "Venus",
+                "id": "fas fa-venus",
                 "filter": [
                     "genders",
                     "venus"
                 ]
             },
             {
-                "id": "fas fa-venus-double",
                 "name": "Venus-double",
+                "id": "fas fa-venus-double",
                 "filter": [
                     "genders",
                     "venus",
@@ -10245,8 +9113,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-venus-mars",
                 "name": "Venus-mars",
+                "id": "fas fa-venus-mars",
                 "filter": [
                     "genders",
                     "venus",
@@ -10254,8 +9122,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-lizard",
                 "id": "fas fa-hand-lizard",
-                "name": "Hand-lizard",
                 "filter": [
                     "hands",
                     "hand",
@@ -10263,8 +9131,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-lizard",
                 "id": "far fa-hand-lizard",
-                "name": "Hand-lizard",
                 "filter": [
                     "hands",
                     "hand",
@@ -10272,8 +9140,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-paper",
                 "id": "fas fa-hand-paper",
-                "name": "Hand-paper",
                 "filter": [
                     "hands",
                     "hand",
@@ -10281,8 +9149,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-paper",
                 "id": "far fa-hand-paper",
-                "name": "Hand-paper",
                 "filter": [
                     "hands",
                     "hand",
@@ -10290,8 +9158,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-peace",
                 "id": "fas fa-hand-peace",
-                "name": "Hand-peace",
                 "filter": [
                     "hands",
                     "hand",
@@ -10299,8 +9167,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-peace",
                 "id": "far fa-hand-peace",
-                "name": "Hand-peace",
                 "filter": [
                     "hands",
                     "hand",
@@ -10308,106 +9176,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-hand-point-down",
-                "name": "Hand-point-down",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "down"
-                ]
-            },
-            {
-                "id": "far fa-hand-point-down",
-                "name": "Hand-point-down",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "down"
-                ]
-            },
-            {
-                "id": "fas fa-hand-point-left",
-                "name": "Hand-point-left",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "left"
-                ]
-            },
-            {
-                "id": "far fa-hand-point-left",
-                "name": "Hand-point-left",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "left"
-                ]
-            },
-            {
-                "id": "fas fa-hand-point-right",
-                "name": "Hand-point-right",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "right"
-                ]
-            },
-            {
-                "id": "far fa-hand-point-right",
-                "name": "Hand-point-right",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "right"
-                ]
-            },
-            {
-                "id": "fas fa-hand-point-up",
-                "name": "Hand-point-up",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "up"
-                ]
-            },
-            {
-                "id": "far fa-hand-point-up",
-                "name": "Hand-point-up",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "point",
-                    "up"
-                ]
-            },
-            {
-                "id": "fas fa-hand-pointer",
-                "name": "Hand-pointer",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "pointer"
-                ]
-            },
-            {
-                "id": "far fa-hand-pointer",
-                "name": "Hand-pointer",
-                "filter": [
-                    "hands",
-                    "hand",
-                    "pointer"
-                ]
-            },
-            {
+                "name": "Hand-rock",
                 "id": "fas fa-hand-rock",
-                "name": "Hand-rock",
                 "filter": [
                     "hands",
                     "hand",
@@ -10415,8 +9185,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-rock",
                 "id": "far fa-hand-rock",
-                "name": "Hand-rock",
                 "filter": [
                     "hands",
                     "hand",
@@ -10424,8 +9194,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-scissors",
                 "id": "fas fa-hand-scissors",
-                "name": "Hand-scissors",
                 "filter": [
                     "hands",
                     "hand",
@@ -10433,8 +9203,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-scissors",
                 "id": "far fa-hand-scissors",
-                "name": "Hand-scissors",
                 "filter": [
                     "hands",
                     "hand",
@@ -10442,8 +9212,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-spock",
                 "id": "fas fa-hand-spock",
-                "name": "Hand-spock",
                 "filter": [
                     "hands",
                     "hand",
@@ -10451,8 +9221,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Hand-spock",
                 "id": "far fa-hand-spock",
-                "name": "Hand-spock",
                 "filter": [
                     "hands",
                     "hand",
@@ -10460,24 +9230,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Handshake",
                 "id": "fas fa-handshake",
-                "name": "Handshake",
                 "filter": [
                     "hands",
                     "handshake"
                 ]
             },
             {
+                "name": "Handshake",
                 "id": "far fa-handshake",
-                "name": "Handshake",
                 "filter": [
                     "hands",
                     "handshake"
                 ]
             },
             {
+                "name": "Thumbs-down",
                 "id": "fas fa-thumbs-down",
-                "name": "Thumbs-down",
                 "filter": [
                     "hands",
                     "thumbs",
@@ -10485,8 +9255,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Thumbs-down",
                 "id": "far fa-thumbs-down",
-                "name": "Thumbs-down",
                 "filter": [
                     "hands",
                     "thumbs",
@@ -10494,8 +9264,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Thumbs-up",
                 "id": "fas fa-thumbs-up",
-                "name": "Thumbs-up",
                 "filter": [
                     "hands",
                     "thumbs",
@@ -10503,8 +9273,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Thumbs-up",
                 "id": "far fa-thumbs-up",
-                "name": "Thumbs-up",
                 "filter": [
                     "hands",
                     "thumbs",
@@ -10512,25 +9282,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-accessible-icon",
-                "name": "Accessible-icon",
-                "filter": [
-                    "health",
-                    "accessible",
-                    "icon"
-                ]
-            },
-            {
-                "id": "fas fa-ambulance",
                 "name": "Ambulance",
+                "id": "fas fa-ambulance",
                 "filter": [
                     "health",
                     "ambulance"
                 ]
             },
             {
-                "id": "fas fa-h-square",
                 "name": "H-square",
+                "id": "fas fa-h-square",
                 "filter": [
                     "health",
                     "h",
@@ -10538,56 +9299,56 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Heart",
                 "id": "fas fa-heart",
-                "name": "Heart",
                 "filter": [
                     "health",
                     "heart"
                 ]
             },
             {
+                "name": "Heart",
                 "id": "far fa-heart",
-                "name": "Heart",
                 "filter": [
                     "health",
                     "heart"
                 ]
             },
             {
-                "id": "fas fa-heartbeat",
                 "name": "Heartbeat",
+                "id": "fas fa-heartbeat",
                 "filter": [
                     "health",
                     "heartbeat"
                 ]
             },
             {
+                "name": "Hospital",
                 "id": "fas fa-hospital",
-                "name": "Hospital",
                 "filter": [
                     "health",
                     "hospital"
                 ]
             },
             {
+                "name": "Hospital",
                 "id": "far fa-hospital",
-                "name": "Hospital",
                 "filter": [
                     "health",
                     "hospital"
                 ]
             },
             {
-                "id": "fas fa-medkit",
                 "name": "Medkit",
+                "id": "fas fa-medkit",
                 "filter": [
                     "health",
                     "medkit"
                 ]
             },
             {
+                "name": "Plus-square",
                 "id": "fas fa-plus-square",
-                "name": "Plus-square",
                 "filter": [
                     "health",
                     "plus",
@@ -10595,8 +9356,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Plus-square",
                 "id": "far fa-plus-square",
-                "name": "Plus-square",
                 "filter": [
                     "health",
                     "plus",
@@ -10604,16 +9365,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-stethoscope",
                 "name": "Stethoscope",
+                "id": "fas fa-stethoscope",
                 "filter": [
                     "health",
                     "stethoscope"
                 ]
             },
             {
-                "id": "fas fa-user-md",
                 "name": "User-md",
+                "id": "fas fa-user-md",
                 "filter": [
                     "health",
                     "user",
@@ -10621,40 +9382,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-wheelchair",
-                "name": "Wheelchair",
-                "filter": [
-                    "health",
-                    "wheelchair"
-                ]
-            },
-            {
-                "id": "fas fa-adjust",
-                "name": "Adjust",
-                "filter": [
-                    "images",
-                    "adjust"
-                ]
-            },
-            {
-                "id": "fas fa-bolt",
                 "name": "Bolt",
+                "id": "fas fa-bolt",
                 "filter": [
                     "images",
                     "bolt"
                 ]
             },
             {
-                "id": "fas fa-camera",
                 "name": "Camera",
+                "id": "fas fa-camera",
                 "filter": [
                     "images",
                     "camera"
                 ]
             },
             {
-                "id": "fas fa-camera-retro",
                 "name": "Camera-retro",
+                "id": "fas fa-camera-retro",
                 "filter": [
                     "images",
                     "camera",
@@ -10662,101 +9407,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "images",
-                    "clone"
-                ]
-            },
-            {
-                "id": "far fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "images",
-                    "clone"
-                ]
-            },
-            {
-                "id": "fas fa-compress",
-                "name": "Compress",
-                "filter": [
-                    "images",
-                    "compress"
-                ]
-            },
-            {
-                "id": "fas fa-expand",
-                "name": "Expand",
-                "filter": [
-                    "images",
-                    "expand"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
-                "name": "Eye",
-                "filter": [
-                    "images",
-                    "eye"
-                ]
-            },
-            {
-                "id": "fas fa-eye-dropper",
-                "name": "Eye-dropper",
-                "filter": [
-                    "images",
-                    "eye",
-                    "dropper"
-                ]
-            },
-            {
-                "id": "fas fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "images",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "images",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-file-image",
-                "name": "File-image",
-                "filter": [
-                    "images",
-                    "file",
-                    "image"
-                ]
-            },
-            {
-                "id": "far fa-file-image",
-                "name": "File-image",
-                "filter": [
-                    "images",
-                    "file",
-                    "image"
-                ]
-            },
-            {
-                "id": "fas fa-film",
-                "name": "Film",
-                "filter": [
-                    "images",
-                    "film"
-                ]
-            },
-            {
+                "name": "Id-badge",
                 "id": "fas fa-id-badge",
-                "name": "Id-badge",
                 "filter": [
                     "images",
                     "id",
@@ -10764,8 +9416,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Id-badge",
                 "id": "far fa-id-badge",
-                "name": "Id-badge",
                 "filter": [
                     "images",
                     "id",
@@ -10773,8 +9425,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Id-card",
                 "id": "fas fa-id-card",
-                "name": "Id-card",
                 "filter": [
                     "images",
                     "id",
@@ -10782,8 +9434,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Id-card",
                 "id": "far fa-id-card",
-                "name": "Id-card",
                 "filter": [
                     "images",
                     "id",
@@ -10791,40 +9443,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Image",
                 "id": "fas fa-image",
-                "name": "Image",
                 "filter": [
                     "images",
                     "image"
                 ]
             },
             {
+                "name": "Image",
                 "id": "far fa-image",
-                "name": "Image",
                 "filter": [
                     "images",
                     "image"
                 ]
             },
             {
+                "name": "Images",
                 "id": "fas fa-images",
-                "name": "Images",
                 "filter": [
                     "images",
                     "images"
                 ]
             },
             {
+                "name": "Images",
                 "id": "far fa-images",
-                "name": "Images",
                 "filter": [
                     "images",
                     "images"
                 ]
             },
             {
-                "id": "fas fa-sliders-h",
                 "name": "Sliders-h",
+                "id": "fas fa-sliders-h",
                 "filter": [
                     "images",
                     "sliders",
@@ -10832,236 +9484,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-tint",
-                "name": "Tint",
-                "filter": [
-                    "images",
-                    "tint"
-                ]
-            },
-            {
-                "id": "fas fa-ban",
                 "name": "Ban",
+                "id": "fas fa-ban",
                 "filter": [
                     "interfaces",
                     "ban"
                 ]
             },
             {
-                "id": "fas fa-barcode",
-                "name": "Barcode",
-                "filter": [
-                    "interfaces",
-                    "barcode"
-                ]
-            },
-            {
-                "id": "fas fa-bars",
                 "name": "Bars",
+                "id": "fas fa-bars",
                 "filter": [
                     "interfaces",
                     "bars"
                 ]
             },
             {
-                "id": "fas fa-beer",
                 "name": "Beer",
+                "id": "fas fa-beer",
                 "filter": [
                     "interfaces",
                     "beer"
                 ]
             },
             {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "interfaces",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "interfaces",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "interfaces",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "interfaces",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-bug",
-                "name": "Bug",
-                "filter": [
-                    "interfaces",
-                    "bug"
-                ]
-            },
-            {
-                "id": "fas fa-bullhorn",
-                "name": "Bullhorn",
-                "filter": [
-                    "interfaces",
-                    "bullhorn"
-                ]
-            },
-            {
-                "id": "fas fa-bullseye",
-                "name": "Bullseye",
-                "filter": [
-                    "interfaces",
-                    "bullseye"
-                ]
-            },
-            {
-                "id": "fas fa-calculator",
-                "name": "Calculator",
-                "filter": [
-                    "interfaces",
-                    "calculator"
-                ]
-            },
-            {
-                "id": "fas fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "interfaces",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "far fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "interfaces",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-check",
-                "name": "Calendar-check",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "check"
-                ]
-            },
-            {
-                "id": "far fa-calendar-check",
-                "name": "Calendar-check",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "check"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-minus",
-                "name": "Calendar-minus",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "minus"
-                ]
-            },
-            {
-                "id": "far fa-calendar-minus",
-                "name": "Calendar-minus",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "minus"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-plus",
-                "name": "Calendar-plus",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "plus"
-                ]
-            },
-            {
-                "id": "far fa-calendar-plus",
-                "name": "Calendar-plus",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "plus"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-times",
-                "name": "Calendar-times",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "times"
-                ]
-            },
-            {
-                "id": "far fa-calendar-times",
-                "name": "Calendar-times",
-                "filter": [
-                    "interfaces",
-                    "calendar",
-                    "times"
-                ]
-            },
-            {
-                "id": "fas fa-certificate",
-                "name": "Certificate",
-                "filter": [
-                    "interfaces",
-                    "certificate"
-                ]
-            },
-            {
-                "id": "fas fa-check",
                 "name": "Check",
+                "id": "fas fa-check",
                 "filter": [
                     "interfaces",
                     "check"
                 ]
             },
             {
+                "name": "Check-circle",
                 "id": "fas fa-check-circle",
-                "name": "Check-circle",
                 "filter": [
                     "interfaces",
                     "check",
@@ -11069,8 +9525,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Check-circle",
                 "id": "far fa-check-circle",
-                "name": "Check-circle",
                 "filter": [
                     "interfaces",
                     "check",
@@ -11078,8 +9534,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Check-square",
                 "id": "fas fa-check-square",
-                "name": "Check-square",
                 "filter": [
                     "interfaces",
                     "check",
@@ -11087,8 +9543,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Check-square",
                 "id": "far fa-check-square",
-                "name": "Check-square",
                 "filter": [
                     "interfaces",
                     "check",
@@ -11096,140 +9552,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-circle",
-                "name": "Circle",
-                "filter": [
-                    "interfaces",
-                    "circle"
-                ]
-            },
-            {
-                "id": "far fa-circle",
-                "name": "Circle",
-                "filter": [
-                    "interfaces",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "interfaces",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "far fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "interfaces",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "fas fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "interfaces",
-                    "clone"
-                ]
-            },
-            {
-                "id": "far fa-clone",
-                "name": "Clone",
-                "filter": [
-                    "interfaces",
-                    "clone"
-                ]
-            },
-            {
-                "id": "fas fa-cloud",
                 "name": "Cloud",
+                "id": "fas fa-cloud",
                 "filter": [
                     "interfaces",
                     "cloud"
                 ]
             },
             {
-                "id": "fas fa-cloud-download-alt",
-                "name": "Cloud-download-alt",
-                "filter": [
-                    "interfaces",
-                    "cloud",
-                    "download",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-cloud-upload-alt",
-                "name": "Cloud-upload-alt",
-                "filter": [
-                    "interfaces",
-                    "cloud",
-                    "upload",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-coffee",
-                "name": "Coffee",
-                "filter": [
-                    "interfaces",
-                    "coffee"
-                ]
-            },
-            {
-                "id": "fas fa-cog",
                 "name": "Cog",
+                "id": "fas fa-cog",
                 "filter": [
                     "interfaces",
                     "cog"
                 ]
             },
             {
-                "id": "fas fa-cogs",
                 "name": "Cogs",
+                "id": "fas fa-cogs",
                 "filter": [
                     "interfaces",
                     "cogs"
                 ]
             },
             {
-                "id": "fas fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "interfaces",
-                    "copy"
-                ]
-            },
-            {
-                "id": "far fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "interfaces",
-                    "copy"
-                ]
-            },
-            {
-                "id": "fas fa-cut",
-                "name": "Cut",
-                "filter": [
-                    "interfaces",
-                    "cut"
-                ]
-            },
-            {
-                "id": "fas fa-database",
                 "name": "Database",
+                "id": "fas fa-database",
                 "filter": [
                     "interfaces",
                     "database"
                 ]
             },
             {
+                "name": "Dot-circle",
                 "id": "fas fa-dot-circle",
-                "name": "Dot-circle",
                 "filter": [
                     "interfaces",
                     "dot",
@@ -11237,8 +9593,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Dot-circle",
                 "id": "far fa-dot-circle",
-                "name": "Dot-circle",
                 "filter": [
                     "interfaces",
                     "dot",
@@ -11246,32 +9602,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-download",
-                "name": "Download",
-                "filter": [
-                    "interfaces",
-                    "download"
-                ]
-            },
-            {
-                "id": "fas fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "interfaces",
-                    "edit"
-                ]
-            },
-            {
-                "id": "far fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "interfaces",
-                    "edit"
-                ]
-            },
-            {
-                "id": "fas fa-ellipsis-h",
                 "name": "Ellipsis-h",
+                "id": "fas fa-ellipsis-h",
                 "filter": [
                     "interfaces",
                     "ellipsis",
@@ -11279,8 +9611,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-ellipsis-v",
                 "name": "Ellipsis-v",
+                "id": "fas fa-ellipsis-v",
                 "filter": [
                     "interfaces",
                     "ellipsis",
@@ -11288,58 +9620,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "interfaces",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "far fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "interfaces",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "fas fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "interfaces",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "interfaces",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-eraser",
-                "name": "Eraser",
-                "filter": [
-                    "interfaces",
-                    "eraser"
-                ]
-            },
-            {
-                "id": "fas fa-exclamation",
                 "name": "Exclamation",
+                "id": "fas fa-exclamation",
                 "filter": [
                     "interfaces",
                     "exclamation"
                 ]
             },
             {
-                "id": "fas fa-exclamation-circle",
                 "name": "Exclamation-circle",
+                "id": "fas fa-exclamation-circle",
                 "filter": [
                     "interfaces",
                     "exclamation",
@@ -11347,8 +9637,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-exclamation-triangle",
                 "name": "Exclamation-triangle",
+                "id": "fas fa-exclamation-triangle",
                 "filter": [
                     "interfaces",
                     "exclamation",
@@ -11356,113 +9646,24 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-external-link-alt",
-                "name": "External-link-alt",
-                "filter": [
-                    "interfaces",
-                    "external",
-                    "link",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-external-link-square-alt",
-                "name": "External-link-square-alt",
-                "filter": [
-                    "interfaces",
-                    "external",
-                    "link",
-                    "square",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
-                "name": "Eye",
-                "filter": [
-                    "interfaces",
-                    "eye"
-                ]
-            },
-            {
-                "id": "fas fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "interfaces",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "interfaces",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "interfaces",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "interfaces",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "interfaces",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "interfaces",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-filter",
-                "name": "Filter",
-                "filter": [
-                    "interfaces",
-                    "filter"
-                ]
-            },
-            {
+                "name": "Flag",
                 "id": "fas fa-flag",
-                "name": "Flag",
                 "filter": [
                     "interfaces",
                     "flag"
                 ]
             },
             {
+                "name": "Flag",
                 "id": "far fa-flag",
-                "name": "Flag",
                 "filter": [
                     "interfaces",
                     "flag"
                 ]
             },
             {
-                "id": "fas fa-flag-checkered",
                 "name": "Flag-checkered",
+                "id": "fas fa-flag-checkered",
                 "filter": [
                     "interfaces",
                     "flag",
@@ -11470,115 +9671,48 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "interfaces",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "interfaces",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "interfaces",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "interfaces",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
+                "name": "Frown",
                 "id": "fas fa-frown",
-                "name": "Frown",
                 "filter": [
                     "interfaces",
                     "frown"
                 ]
             },
             {
+                "name": "Frown",
                 "id": "far fa-frown",
-                "name": "Frown",
                 "filter": [
                     "interfaces",
                     "frown"
                 ]
             },
             {
-                "id": "fas fa-hashtag",
                 "name": "Hashtag",
+                "id": "fas fa-hashtag",
                 "filter": [
                     "interfaces",
                     "hashtag"
                 ]
             },
             {
-                "id": "fas fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "interfaces",
-                    "heart"
-                ]
-            },
-            {
-                "id": "far fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "interfaces",
-                    "heart"
-                ]
-            },
-            {
-                "id": "fas fa-history",
-                "name": "History",
-                "filter": [
-                    "interfaces",
-                    "history"
-                ]
-            },
-            {
-                "id": "fas fa-home",
                 "name": "Home",
+                "id": "fas fa-home",
                 "filter": [
                     "interfaces",
                     "home"
                 ]
             },
             {
-                "id": "fas fa-i-cursor",
-                "name": "I-cursor",
-                "filter": [
-                    "interfaces",
-                    "i",
-                    "cursor"
-                ]
-            },
-            {
-                "id": "fas fa-info",
                 "name": "Info",
+                "id": "fas fa-info",
                 "filter": [
                     "interfaces",
                     "info"
                 ]
             },
             {
-                "id": "fas fa-info-circle",
                 "name": "Info-circle",
+                "id": "fas fa-info-circle",
                 "filter": [
                     "interfaces",
                     "info",
@@ -11586,65 +9720,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-language",
-                "name": "Language",
-                "filter": [
-                    "interfaces",
-                    "language"
-                ]
-            },
-            {
-                "id": "fas fa-magic",
                 "name": "Magic",
+                "id": "fas fa-magic",
                 "filter": [
                     "interfaces",
                     "magic"
                 ]
             },
             {
+                "name": "Meh",
                 "id": "fas fa-meh",
-                "name": "Meh",
                 "filter": [
                     "interfaces",
                     "meh"
                 ]
             },
             {
+                "name": "Meh",
                 "id": "far fa-meh",
-                "name": "Meh",
                 "filter": [
                     "interfaces",
                     "meh"
                 ]
             },
             {
-                "id": "fas fa-microphone",
-                "name": "Microphone",
-                "filter": [
-                    "interfaces",
-                    "microphone"
-                ]
-            },
-            {
-                "id": "fas fa-microphone-slash",
-                "name": "Microphone-slash",
-                "filter": [
-                    "interfaces",
-                    "microphone",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-minus",
                 "name": "Minus",
+                "id": "fas fa-minus",
                 "filter": [
                     "interfaces",
                     "minus"
                 ]
             },
             {
-                "id": "fas fa-minus-circle",
                 "name": "Minus-circle",
+                "id": "fas fa-minus-circle",
                 "filter": [
                     "interfaces",
                     "minus",
@@ -11652,8 +9761,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Minus-square",
                 "id": "fas fa-minus-square",
-                "name": "Minus-square",
                 "filter": [
                     "interfaces",
                     "minus",
@@ -11661,8 +9770,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Minus-square",
                 "id": "far fa-minus-square",
-                "name": "Minus-square",
                 "filter": [
                     "interfaces",
                     "minus",
@@ -11670,33 +9779,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-paste",
-                "name": "Paste",
-                "filter": [
-                    "interfaces",
-                    "paste"
-                ]
-            },
-            {
-                "id": "fas fa-pencil-alt",
-                "name": "Pencil-alt",
-                "filter": [
-                    "interfaces",
-                    "pencil",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-plus",
                 "name": "Plus",
+                "id": "fas fa-plus",
                 "filter": [
                     "interfaces",
                     "plus"
                 ]
             },
             {
-                "id": "fas fa-plus-circle",
                 "name": "Plus-circle",
+                "id": "fas fa-plus-circle",
                 "filter": [
                     "interfaces",
                     "plus",
@@ -11704,291 +9796,80 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "interfaces",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "far fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "interfaces",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-qrcode",
-                "name": "Qrcode",
-                "filter": [
-                    "interfaces",
-                    "qrcode"
-                ]
-            },
-            {
-                "id": "fas fa-question",
                 "name": "Question",
+                "id": "fas fa-question",
                 "filter": [
                     "interfaces",
                     "question"
                 ]
             },
             {
-                "id": "fas fa-question-circle",
-                "name": "Question-circle",
-                "filter": [
-                    "interfaces",
-                    "question",
-                    "circle"
-                ]
-            },
-            {
-                "id": "far fa-question-circle",
-                "name": "Question-circle",
-                "filter": [
-                    "interfaces",
-                    "question",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-ambulance",
-                "name": "Ambulance",
-                "filter": [
-                    "maps",
-                    "ambulance"
-                ]
-            },
-            {
-                "id": "fas fa-anchor",
                 "name": "Anchor",
+                "id": "fas fa-anchor",
                 "filter": [
                     "maps",
                     "anchor"
                 ]
             },
             {
-                "id": "fas fa-balance-scale",
-                "name": "Balance-scale",
-                "filter": [
-                    "maps",
-                    "balance",
-                    "scale"
-                ]
-            },
-            {
-                "id": "fas fa-bath",
-                "name": "Bath",
-                "filter": [
-                    "maps",
-                    "bath"
-                ]
-            },
-            {
-                "id": "fas fa-bed",
                 "name": "Bed",
+                "id": "fas fa-bed",
                 "filter": [
                     "maps",
                     "bed"
                 ]
             },
             {
-                "id": "fas fa-beer",
-                "name": "Beer",
-                "filter": [
-                    "maps",
-                    "beer"
-                ]
-            },
-            {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "maps",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "maps",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "maps",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "maps",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-bicycle",
                 "name": "Bicycle",
+                "id": "fas fa-bicycle",
                 "filter": [
                     "maps",
                     "bicycle"
                 ]
             },
             {
-                "id": "fas fa-binoculars",
                 "name": "Binoculars",
+                "id": "fas fa-binoculars",
                 "filter": [
                     "maps",
                     "binoculars"
                 ]
             },
             {
-                "id": "fas fa-birthday-cake",
-                "name": "Birthday-cake",
-                "filter": [
-                    "maps",
-                    "birthday",
-                    "cake"
-                ]
-            },
-            {
-                "id": "fas fa-blind",
-                "name": "Blind",
-                "filter": [
-                    "maps",
-                    "blind"
-                ]
-            },
-            {
-                "id": "fas fa-bomb",
                 "name": "Bomb",
+                "id": "fas fa-bomb",
                 "filter": [
                     "maps",
                     "bomb"
                 ]
             },
             {
-                "id": "fas fa-book",
-                "name": "Book",
-                "filter": [
-                    "maps",
-                    "book"
-                ]
-            },
-            {
+                "name": "Bookmark",
                 "id": "fas fa-bookmark",
-                "name": "Bookmark",
                 "filter": [
                     "maps",
                     "bookmark"
                 ]
             },
             {
+                "name": "Bookmark",
                 "id": "far fa-bookmark",
-                "name": "Bookmark",
                 "filter": [
                     "maps",
                     "bookmark"
                 ]
             },
             {
-                "id": "fas fa-briefcase",
-                "name": "Briefcase",
-                "filter": [
-                    "maps",
-                    "briefcase"
-                ]
-            },
-            {
-                "id": "fas fa-building",
-                "name": "Building",
-                "filter": [
-                    "maps",
-                    "building"
-                ]
-            },
-            {
-                "id": "far fa-building",
-                "name": "Building",
-                "filter": [
-                    "maps",
-                    "building"
-                ]
-            },
-            {
-                "id": "fas fa-car",
                 "name": "Car",
+                "id": "fas fa-car",
                 "filter": [
                     "maps",
                     "car"
                 ]
             },
             {
-                "id": "fas fa-coffee",
-                "name": "Coffee",
-                "filter": [
-                    "maps",
-                    "coffee"
-                ]
-            },
-            {
-                "id": "fas fa-crosshairs",
-                "name": "Crosshairs",
-                "filter": [
-                    "maps",
-                    "crosshairs"
-                ]
-            },
-            {
-                "id": "fas fa-dollar-sign",
-                "name": "Dollar-sign",
-                "filter": [
-                    "maps",
-                    "dollar",
-                    "sign"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
-                "name": "Eye",
-                "filter": [
-                    "maps",
-                    "eye"
-                ]
-            },
-            {
-                "id": "fas fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "maps",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "maps",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-fighter-jet",
                 "name": "Fighter-jet",
+                "id": "fas fa-fighter-jet",
                 "filter": [
                     "maps",
                     "fighter",
@@ -11996,82 +9877,48 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-fire",
                 "name": "Fire",
+                "id": "fas fa-fire",
                 "filter": [
                     "maps",
                     "fire"
                 ]
             },
             {
-                "id": "fas fa-fire-extinguisher",
-                "name": "Fire-extinguisher",
-                "filter": [
-                    "maps",
-                    "fire",
-                    "extinguisher"
-                ]
-            },
-            {
-                "id": "fas fa-flag",
-                "name": "Flag",
-                "filter": [
-                    "maps",
-                    "flag"
-                ]
-            },
-            {
-                "id": "far fa-flag",
-                "name": "Flag",
-                "filter": [
-                    "maps",
-                    "flag"
-                ]
-            },
-            {
-                "id": "fas fa-flag-checkered",
-                "name": "Flag-checkered",
-                "filter": [
-                    "maps",
-                    "flag",
-                    "checkered"
-                ]
-            },
-            {
-                "id": "fas fa-flask",
                 "name": "Flask",
+                "id": "fas fa-flask",
                 "filter": [
                     "maps",
                     "flask"
                 ]
             },
             {
-                "id": "fas fa-gamepad",
                 "name": "Gamepad",
+                "id": "fas fa-gamepad",
                 "filter": [
                     "maps",
                     "gamepad"
                 ]
             },
             {
-                "id": "fas fa-gavel",
                 "name": "Gavel",
+                "id": "fas fa-gavel",
                 "filter": [
                     "maps",
                     "gavel"
                 ]
             },
             {
-                "id": "fas fa-gift",
                 "name": "Gift",
+                "id": "fas fa-gift",
                 "filter": [
                     "maps",
                     "gift"
                 ]
             },
             {
-                "id": "fas fa-glass-martini",
                 "name": "Glass-martini",
+                "id": "fas fa-glass-martini",
                 "filter": [
                     "maps",
                     "glass",
@@ -12079,16 +9926,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-globe",
-                "name": "Globe",
-                "filter": [
-                    "maps",
-                    "globe"
-                ]
-            },
-            {
-                "id": "fas fa-graduation-cap",
                 "name": "Graduation-cap",
+                "id": "fas fa-graduation-cap",
                 "filter": [
                     "maps",
                     "graduation",
@@ -12096,154 +9935,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-h-square",
-                "name": "H-square",
-                "filter": [
-                    "maps",
-                    "h",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "maps",
-                    "heart"
-                ]
-            },
-            {
-                "id": "far fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "maps",
-                    "heart"
-                ]
-            },
-            {
-                "id": "fas fa-heartbeat",
-                "name": "Heartbeat",
-                "filter": [
-                    "maps",
-                    "heartbeat"
-                ]
-            },
-            {
-                "id": "fas fa-home",
-                "name": "Home",
-                "filter": [
-                    "maps",
-                    "home"
-                ]
-            },
-            {
-                "id": "fas fa-hospital",
-                "name": "Hospital",
-                "filter": [
-                    "maps",
-                    "hospital"
-                ]
-            },
-            {
-                "id": "far fa-hospital",
-                "name": "Hospital",
-                "filter": [
-                    "maps",
-                    "hospital"
-                ]
-            },
-            {
-                "id": "fas fa-image",
-                "name": "Image",
-                "filter": [
-                    "maps",
-                    "image"
-                ]
-            },
-            {
-                "id": "far fa-image",
-                "name": "Image",
-                "filter": [
-                    "maps",
-                    "image"
-                ]
-            },
-            {
-                "id": "fas fa-images",
-                "name": "Images",
-                "filter": [
-                    "maps",
-                    "images"
-                ]
-            },
-            {
-                "id": "far fa-images",
-                "name": "Images",
-                "filter": [
-                    "maps",
-                    "images"
-                ]
-            },
-            {
-                "id": "fas fa-industry",
-                "name": "Industry",
-                "filter": [
-                    "maps",
-                    "industry"
-                ]
-            },
-            {
-                "id": "fas fa-info",
-                "name": "Info",
-                "filter": [
-                    "maps",
-                    "info"
-                ]
-            },
-            {
-                "id": "fas fa-info-circle",
-                "name": "Info-circle",
-                "filter": [
-                    "maps",
-                    "info",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-key",
                 "name": "Key",
+                "id": "fas fa-key",
                 "filter": [
                     "maps",
                     "key"
                 ]
             },
             {
-                "id": "fas fa-leaf",
                 "name": "Leaf",
+                "id": "fas fa-leaf",
                 "filter": [
                     "maps",
                     "leaf"
                 ]
             },
             {
+                "name": "Lemon",
                 "id": "fas fa-lemon",
-                "name": "Lemon",
                 "filter": [
                     "maps",
                     "lemon"
                 ]
             },
             {
+                "name": "Lemon",
                 "id": "far fa-lemon",
-                "name": "Lemon",
                 "filter": [
                     "maps",
                     "lemon"
                 ]
             },
             {
+                "name": "Life-ring",
                 "id": "fas fa-life-ring",
-                "name": "Life-ring",
                 "filter": [
                     "maps",
                     "life",
@@ -12251,8 +9976,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Life-ring",
                 "id": "far fa-life-ring",
-                "name": "Life-ring",
                 "filter": [
                     "maps",
                     "life",
@@ -12260,74 +9985,56 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Lightbulb",
                 "id": "fas fa-lightbulb",
-                "name": "Lightbulb",
                 "filter": [
                     "maps",
                     "lightbulb"
                 ]
             },
             {
+                "name": "Lightbulb",
                 "id": "far fa-lightbulb",
-                "name": "Lightbulb",
                 "filter": [
                     "maps",
                     "lightbulb"
                 ]
             },
             {
-                "id": "fas fa-location-arrow",
-                "name": "Location-arrow",
-                "filter": [
-                    "maps",
-                    "location",
-                    "arrow"
-                ]
-            },
-            {
-                "id": "fas fa-low-vision",
-                "name": "Low-vision",
-                "filter": [
-                    "maps",
-                    "low",
-                    "vision"
-                ]
-            },
-            {
-                "id": "fas fa-magnet",
                 "name": "Magnet",
+                "id": "fas fa-magnet",
                 "filter": [
                     "maps",
                     "magnet"
                 ]
             },
             {
-                "id": "fas fa-male",
                 "name": "Male",
+                "id": "fas fa-male",
                 "filter": [
                     "maps",
                     "male"
                 ]
             },
             {
+                "name": "Map",
                 "id": "fas fa-map",
-                "name": "Map",
                 "filter": [
                     "maps",
                     "map"
                 ]
             },
             {
+                "name": "Map",
                 "id": "far fa-map",
-                "name": "Map",
                 "filter": [
                     "maps",
                     "map"
                 ]
             },
             {
-                "id": "fas fa-map-marker",
                 "name": "Map-marker",
+                "id": "fas fa-map-marker",
                 "filter": [
                     "maps",
                     "map",
@@ -12335,8 +10042,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-map-marker-alt",
                 "name": "Map-marker-alt",
+                "id": "fas fa-map-marker-alt",
                 "filter": [
                     "maps",
                     "map",
@@ -12345,8 +10052,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-map-pin",
                 "name": "Map-pin",
+                "id": "fas fa-map-pin",
                 "filter": [
                     "maps",
                     "map",
@@ -12354,8 +10061,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-map-signs",
                 "name": "Map-signs",
+                "id": "fas fa-map-signs",
                 "filter": [
                     "maps",
                     "map",
@@ -12363,184 +10070,72 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-medkit",
-                "name": "Medkit",
-                "filter": [
-                    "maps",
-                    "medkit"
-                ]
-            },
-            {
-                "id": "fas fa-money-bill-alt",
-                "name": "Money-bill-alt",
-                "filter": [
-                    "maps",
-                    "money",
-                    "bill",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-money-bill-alt",
-                "name": "Money-bill-alt",
-                "filter": [
-                    "maps",
-                    "money",
-                    "bill",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-motorcycle",
                 "name": "Motorcycle",
+                "id": "fas fa-motorcycle",
                 "filter": [
                     "maps",
                     "motorcycle"
                 ]
             },
             {
-                "id": "fas fa-music",
-                "name": "Music",
-                "filter": [
-                    "maps",
-                    "music"
-                ]
-            },
-            {
+                "name": "Newspaper",
                 "id": "fas fa-newspaper",
-                "name": "Newspaper",
                 "filter": [
                     "maps",
                     "newspaper"
                 ]
             },
             {
+                "name": "Newspaper",
                 "id": "far fa-newspaper",
-                "name": "Newspaper",
                 "filter": [
                     "maps",
                     "newspaper"
                 ]
             },
             {
-                "id": "fas fa-paw",
                 "name": "Paw",
+                "id": "fas fa-paw",
                 "filter": [
                     "maps",
                     "paw"
                 ]
             },
             {
-                "id": "fas fa-phone",
-                "name": "Phone",
-                "filter": [
-                    "maps",
-                    "phone"
-                ]
-            },
-            {
-                "id": "fas fa-phone-square",
-                "name": "Phone-square",
-                "filter": [
-                    "maps",
-                    "phone",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-phone-volume",
-                "name": "Phone-volume",
-                "filter": [
-                    "maps",
-                    "phone",
-                    "volume"
-                ]
-            },
-            {
-                "id": "fas fa-plane",
                 "name": "Plane",
+                "id": "fas fa-plane",
                 "filter": [
                     "maps",
                     "plane"
                 ]
             },
             {
-                "id": "fas fa-plug",
-                "name": "Plug",
-                "filter": [
-                    "maps",
-                    "plug"
-                ]
-            },
-            {
-                "id": "fas fa-plus",
-                "name": "Plus",
-                "filter": [
-                    "maps",
-                    "plus"
-                ]
-            },
-            {
-                "id": "fas fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "maps",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "far fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "maps",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-print",
-                "name": "Print",
-                "filter": [
-                    "maps",
-                    "print"
-                ]
-            },
-            {
-                "id": "fas fa-recycle",
-                "name": "Recycle",
-                "filter": [
-                    "maps",
-                    "recycle"
-                ]
-            },
-            {
-                "id": "fas fa-road",
                 "name": "Road",
+                "id": "fas fa-road",
                 "filter": [
                     "maps",
                     "road"
                 ]
             },
             {
-                "id": "fas fa-rocket",
                 "name": "Rocket",
+                "id": "fas fa-rocket",
                 "filter": [
                     "maps",
                     "rocket"
                 ]
             },
             {
-                "id": "fas fa-search",
                 "name": "Search",
+                "id": "fas fa-search",
                 "filter": [
                     "maps",
                     "search"
                 ]
             },
             {
-                "id": "fas fa-search-minus",
                 "name": "Search-minus",
+                "id": "fas fa-search-minus",
                 "filter": [
                     "maps",
                     "search",
@@ -12548,8 +10143,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-search-plus",
                 "name": "Search-plus",
+                "id": "fas fa-search-plus",
                 "filter": [
                     "maps",
                     "search",
@@ -12557,16 +10152,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-ship",
                 "name": "Ship",
+                "id": "fas fa-ship",
                 "filter": [
                     "maps",
                     "ship"
                 ]
             },
             {
-                "id": "fas fa-shopping-bag",
                 "name": "Shopping-bag",
+                "id": "fas fa-shopping-bag",
                 "filter": [
                     "maps",
                     "shopping",
@@ -12574,8 +10169,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-shopping-basket",
                 "name": "Shopping-basket",
+                "id": "fas fa-shopping-basket",
                 "filter": [
                     "maps",
                     "shopping",
@@ -12583,8 +10178,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-shopping-cart",
                 "name": "Shopping-cart",
+                "id": "fas fa-shopping-cart",
                 "filter": [
                     "maps",
                     "shopping",
@@ -12592,16 +10187,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-shower",
                 "name": "Shower",
+                "id": "fas fa-shower",
                 "filter": [
                     "maps",
                     "shower"
                 ]
             },
             {
-                "id": "fas fa-street-view",
                 "name": "Street-view",
+                "id": "fas fa-street-view",
                 "filter": [
                     "maps",
                     "street",
@@ -12609,881 +10204,88 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-subway",
                 "name": "Subway",
+                "id": "fas fa-subway",
                 "filter": [
                     "maps",
                     "subway"
                 ]
             },
             {
-                "id": "fas fa-suitcase",
-                "name": "Suitcase",
-                "filter": [
-                    "maps",
-                    "suitcase"
-                ]
-            },
-            {
-                "id": "fas fa-tag",
-                "name": "Tag",
-                "filter": [
-                    "maps",
-                    "tag"
-                ]
-            },
-            {
-                "id": "fas fa-tags",
-                "name": "Tags",
-                "filter": [
-                    "maps",
-                    "tags"
-                ]
-            },
-            {
-                "id": "fas fa-taxi",
                 "name": "Taxi",
+                "id": "fas fa-taxi",
                 "filter": [
                     "maps",
                     "taxi"
                 ]
             },
             {
-                "id": "fas fa-thumbtack",
-                "name": "Thumbtack",
-                "filter": [
-                    "maps",
-                    "thumbtack"
-                ]
-            },
-            {
-                "id": "fas fa-ambulance",
-                "name": "Ambulance",
-                "filter": [
-                    "objects",
-                    "ambulance"
-                ]
-            },
-            {
-                "id": "fas fa-anchor",
-                "name": "Anchor",
-                "filter": [
-                    "objects",
-                    "anchor"
-                ]
-            },
-            {
-                "id": "fas fa-archive",
-                "name": "Archive",
-                "filter": [
-                    "objects",
-                    "archive"
-                ]
-            },
-            {
-                "id": "fas fa-balance-scale",
-                "name": "Balance-scale",
-                "filter": [
-                    "objects",
-                    "balance",
-                    "scale"
-                ]
-            },
-            {
-                "id": "fas fa-bath",
-                "name": "Bath",
-                "filter": [
-                    "objects",
-                    "bath"
-                ]
-            },
-            {
-                "id": "fas fa-bed",
-                "name": "Bed",
-                "filter": [
-                    "objects",
-                    "bed"
-                ]
-            },
-            {
-                "id": "fas fa-beer",
-                "name": "Beer",
-                "filter": [
-                    "objects",
-                    "beer"
-                ]
-            },
-            {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "objects",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "objects",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bicycle",
-                "name": "Bicycle",
-                "filter": [
-                    "objects",
-                    "bicycle"
-                ]
-            },
-            {
-                "id": "fas fa-binoculars",
-                "name": "Binoculars",
-                "filter": [
-                    "objects",
-                    "binoculars"
-                ]
-            },
-            {
-                "id": "fas fa-birthday-cake",
-                "name": "Birthday-cake",
-                "filter": [
-                    "objects",
-                    "birthday",
-                    "cake"
-                ]
-            },
-            {
-                "id": "fas fa-bomb",
-                "name": "Bomb",
-                "filter": [
-                    "objects",
-                    "bomb"
-                ]
-            },
-            {
-                "id": "fas fa-book",
-                "name": "Book",
-                "filter": [
-                    "objects",
-                    "book"
-                ]
-            },
-            {
-                "id": "fas fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "objects",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "far fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "objects",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "fas fa-briefcase",
-                "name": "Briefcase",
-                "filter": [
-                    "objects",
-                    "briefcase"
-                ]
-            },
-            {
-                "id": "fas fa-bug",
-                "name": "Bug",
-                "filter": [
-                    "objects",
-                    "bug"
-                ]
-            },
-            {
-                "id": "fas fa-building",
-                "name": "Building",
-                "filter": [
-                    "objects",
-                    "building"
-                ]
-            },
-            {
-                "id": "far fa-building",
-                "name": "Building",
-                "filter": [
-                    "objects",
-                    "building"
-                ]
-            },
-            {
-                "id": "fas fa-bullhorn",
-                "name": "Bullhorn",
-                "filter": [
-                    "objects",
-                    "bullhorn"
-                ]
-            },
-            {
-                "id": "fas fa-bullseye",
-                "name": "Bullseye",
-                "filter": [
-                    "objects",
-                    "bullseye"
-                ]
-            },
-            {
-                "id": "fas fa-bus",
                 "name": "Bus",
+                "id": "fas fa-bus",
                 "filter": [
                     "objects",
                     "bus"
                 ]
             },
             {
-                "id": "fas fa-calculator",
-                "name": "Calculator",
-                "filter": [
-                    "objects",
-                    "calculator"
-                ]
-            },
-            {
-                "id": "fas fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "objects",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "far fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "objects",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "objects",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "objects",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-camera",
-                "name": "Camera",
-                "filter": [
-                    "objects",
-                    "camera"
-                ]
-            },
-            {
-                "id": "fas fa-camera-retro",
-                "name": "Camera-retro",
-                "filter": [
-                    "objects",
-                    "camera",
-                    "retro"
-                ]
-            },
-            {
-                "id": "fas fa-car",
-                "name": "Car",
-                "filter": [
-                    "objects",
-                    "car"
-                ]
-            },
-            {
-                "id": "fas fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "objects",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "far fa-clipboard",
-                "name": "Clipboard",
-                "filter": [
-                    "objects",
-                    "clipboard"
-                ]
-            },
-            {
-                "id": "fas fa-cloud",
-                "name": "Cloud",
-                "filter": [
-                    "objects",
-                    "cloud"
-                ]
-            },
-            {
-                "id": "fas fa-coffee",
-                "name": "Coffee",
-                "filter": [
-                    "objects",
-                    "coffee"
-                ]
-            },
-            {
-                "id": "fas fa-cog",
-                "name": "Cog",
-                "filter": [
-                    "objects",
-                    "cog"
-                ]
-            },
-            {
-                "id": "fas fa-cogs",
-                "name": "Cogs",
-                "filter": [
-                    "objects",
-                    "cogs"
-                ]
-            },
-            {
-                "id": "fas fa-compass",
-                "name": "Compass",
-                "filter": [
-                    "objects",
-                    "compass"
-                ]
-            },
-            {
-                "id": "far fa-compass",
-                "name": "Compass",
-                "filter": [
-                    "objects",
-                    "compass"
-                ]
-            },
-            {
-                "id": "fas fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "objects",
-                    "copy"
-                ]
-            },
-            {
-                "id": "far fa-copy",
-                "name": "Copy",
-                "filter": [
-                    "objects",
-                    "copy"
-                ]
-            },
-            {
-                "id": "fas fa-cube",
                 "name": "Cube",
+                "id": "fas fa-cube",
                 "filter": [
                     "objects",
                     "cube"
                 ]
             },
             {
-                "id": "fas fa-cubes",
                 "name": "Cubes",
+                "id": "fas fa-cubes",
                 "filter": [
                     "objects",
                     "cubes"
                 ]
             },
             {
-                "id": "fas fa-cut",
-                "name": "Cut",
-                "filter": [
-                    "objects",
-                    "cut"
-                ]
-            },
-            {
-                "id": "fas fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "objects",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "far fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "objects",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "fas fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "objects",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "objects",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-eraser",
-                "name": "Eraser",
-                "filter": [
-                    "objects",
-                    "eraser"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
-                "name": "Eye",
-                "filter": [
-                    "objects",
-                    "eye"
-                ]
-            },
-            {
-                "id": "fas fa-eye-dropper",
-                "name": "Eye-dropper",
-                "filter": [
-                    "objects",
-                    "eye",
-                    "dropper"
-                ]
-            },
-            {
-                "id": "fas fa-fax",
-                "name": "Fax",
-                "filter": [
-                    "objects",
-                    "fax"
-                ]
-            },
-            {
-                "id": "fas fa-fighter-jet",
-                "name": "Fighter-jet",
-                "filter": [
-                    "objects",
-                    "fighter",
-                    "jet"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "objects",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "objects",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "objects",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "objects",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-film",
-                "name": "Film",
-                "filter": [
-                    "objects",
-                    "film"
-                ]
-            },
-            {
-                "id": "fas fa-fire",
-                "name": "Fire",
-                "filter": [
-                    "objects",
-                    "fire"
-                ]
-            },
-            {
-                "id": "fas fa-fire-extinguisher",
-                "name": "Fire-extinguisher",
-                "filter": [
-                    "objects",
-                    "fire",
-                    "extinguisher"
-                ]
-            },
-            {
-                "id": "fas fa-flag",
-                "name": "Flag",
-                "filter": [
-                    "objects",
-                    "flag"
-                ]
-            },
-            {
-                "id": "far fa-flag",
-                "name": "Flag",
-                "filter": [
-                    "objects",
-                    "flag"
-                ]
-            },
-            {
-                "id": "fas fa-flag-checkered",
-                "name": "Flag-checkered",
-                "filter": [
-                    "objects",
-                    "flag",
-                    "checkered"
-                ]
-            },
-            {
-                "id": "fas fa-flask",
-                "name": "Flask",
-                "filter": [
-                    "objects",
-                    "flask"
-                ]
-            },
-            {
+                "name": "Futbol",
                 "id": "fas fa-futbol",
-                "name": "Futbol",
                 "filter": [
                     "objects",
                     "futbol"
                 ]
             },
             {
+                "name": "Futbol",
                 "id": "far fa-futbol",
-                "name": "Futbol",
                 "filter": [
                     "objects",
                     "futbol"
                 ]
             },
             {
-                "id": "fas fa-gamepad",
-                "name": "Gamepad",
-                "filter": [
-                    "objects",
-                    "gamepad"
-                ]
-            },
-            {
-                "id": "fas fa-gavel",
-                "name": "Gavel",
-                "filter": [
-                    "objects",
-                    "gavel"
-                ]
-            },
-            {
+                "name": "Gem",
                 "id": "fas fa-gem",
-                "name": "Gem",
                 "filter": [
                     "objects",
                     "gem"
                 ]
             },
             {
+                "name": "Gem",
                 "id": "far fa-gem",
-                "name": "Gem",
                 "filter": [
                     "objects",
                     "gem"
                 ]
             },
             {
-                "id": "fas fa-gift",
-                "name": "Gift",
-                "filter": [
-                    "objects",
-                    "gift"
-                ]
-            },
-            {
-                "id": "fas fa-glass-martini",
-                "name": "Glass-martini",
-                "filter": [
-                    "objects",
-                    "glass",
-                    "martini"
-                ]
-            },
-            {
-                "id": "fas fa-globe",
-                "name": "Globe",
-                "filter": [
-                    "objects",
-                    "globe"
-                ]
-            },
-            {
-                "id": "fas fa-graduation-cap",
-                "name": "Graduation-cap",
-                "filter": [
-                    "objects",
-                    "graduation",
-                    "cap"
-                ]
-            },
-            {
-                "id": "fas fa-hdd",
-                "name": "Hdd",
-                "filter": [
-                    "objects",
-                    "hdd"
-                ]
-            },
-            {
-                "id": "far fa-hdd",
-                "name": "Hdd",
-                "filter": [
-                    "objects",
-                    "hdd"
-                ]
-            },
-            {
-                "id": "fas fa-headphones",
-                "name": "Headphones",
-                "filter": [
-                    "objects",
-                    "headphones"
-                ]
-            },
-            {
-                "id": "fas fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "objects",
-                    "heart"
-                ]
-            },
-            {
-                "id": "far fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "objects",
-                    "heart"
-                ]
-            },
-            {
-                "id": "fas fa-home",
-                "name": "Home",
-                "filter": [
-                    "objects",
-                    "home"
-                ]
-            },
-            {
-                "id": "fas fa-hospital",
-                "name": "Hospital",
-                "filter": [
-                    "objects",
-                    "hospital"
-                ]
-            },
-            {
-                "id": "far fa-hospital",
-                "name": "Hospital",
-                "filter": [
-                    "objects",
-                    "hospital"
-                ]
-            },
-            {
-                "id": "fas fa-hourglass",
-                "name": "Hourglass",
-                "filter": [
-                    "objects",
-                    "hourglass"
-                ]
-            },
-            {
-                "id": "far fa-hourglass",
-                "name": "Hourglass",
-                "filter": [
-                    "objects",
-                    "hourglass"
-                ]
-            },
-            {
-                "id": "fas fa-image",
-                "name": "Image",
-                "filter": [
-                    "objects",
-                    "image"
-                ]
-            },
-            {
-                "id": "far fa-image",
-                "name": "Image",
-                "filter": [
-                    "objects",
-                    "image"
-                ]
-            },
-            {
-                "id": "fas fa-images",
-                "name": "Images",
-                "filter": [
-                    "objects",
-                    "images"
-                ]
-            },
-            {
-                "id": "far fa-images",
-                "name": "Images",
-                "filter": [
-                    "objects",
-                    "images"
-                ]
-            },
-            {
-                "id": "fas fa-industry",
-                "name": "Industry",
-                "filter": [
-                    "objects",
-                    "industry"
-                ]
-            },
-            {
-                "id": "fas fa-key",
-                "name": "Key",
-                "filter": [
-                    "objects",
-                    "key"
-                ]
-            },
-            {
-                "id": "fas fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "objects",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "far fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "objects",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "fas fa-laptop",
-                "name": "Laptop",
-                "filter": [
-                    "objects",
-                    "laptop"
-                ]
-            },
-            {
-                "id": "fas fa-leaf",
-                "name": "Leaf",
-                "filter": [
-                    "objects",
-                    "leaf"
-                ]
-            },
-            {
-                "id": "fas fa-lemon",
-                "name": "Lemon",
-                "filter": [
-                    "objects",
-                    "lemon"
-                ]
-            },
-            {
-                "id": "far fa-lemon",
-                "name": "Lemon",
-                "filter": [
-                    "objects",
-                    "lemon"
-                ]
-            },
-            {
-                "id": "fas fa-life-ring",
-                "name": "Life-ring",
-                "filter": [
-                    "objects",
-                    "life",
-                    "ring"
-                ]
-            },
-            {
-                "id": "far fa-life-ring",
-                "name": "Life-ring",
-                "filter": [
-                    "objects",
-                    "life",
-                    "ring"
-                ]
-            },
-            {
-                "id": "fas fa-lightbulb",
-                "name": "Lightbulb",
-                "filter": [
-                    "objects",
-                    "lightbulb"
-                ]
-            },
-            {
-                "id": "far fa-lightbulb",
-                "name": "Lightbulb",
-                "filter": [
-                    "objects",
-                    "lightbulb"
-                ]
-            },
-            {
-                "id": "fas fa-lock",
                 "name": "Lock",
+                "id": "fas fa-lock",
                 "filter": [
                     "objects",
                     "lock"
                 ]
             },
             {
-                "id": "fas fa-lock-open",
                 "name": "Lock-open",
+                "id": "fas fa-lock-open",
                 "filter": [
                     "objects",
                     "lock",
@@ -13491,59 +10293,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-magic",
-                "name": "Magic",
-                "filter": [
-                    "objects",
-                    "magic"
-                ]
-            },
-            {
-                "id": "fas fa-magnet",
-                "name": "Magnet",
-                "filter": [
-                    "objects",
-                    "magnet"
-                ]
-            },
-            {
-                "id": "fas fa-map",
-                "name": "Map",
-                "filter": [
-                    "objects",
-                    "map"
-                ]
-            },
-            {
-                "id": "far fa-map",
-                "name": "Map",
-                "filter": [
-                    "objects",
-                    "map"
-                ]
-            },
-            {
-                "id": "fas fa-map-marker",
-                "name": "Map-marker",
-                "filter": [
-                    "objects",
-                    "map",
-                    "marker"
-                ]
-            },
-            {
-                "id": "fas fa-map-marker-alt",
-                "name": "Map-marker-alt",
-                "filter": [
-                    "objects",
-                    "map",
-                    "marker",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fab fa-amazon-pay",
                 "name": "Amazon-pay",
+                "id": "fab fa-amazon-pay",
                 "filter": [
                     "payments & shopping",
                     "amazon",
@@ -13551,8 +10302,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-apple-pay",
                 "name": "Apple-pay",
+                "id": "fab fa-apple-pay",
                 "filter": [
                     "payments & shopping",
                     "apple",
@@ -13560,75 +10311,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "payments & shopping",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "payments & shopping",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "payments & shopping",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "far fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "payments & shopping",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "fas fa-bullhorn",
-                "name": "Bullhorn",
-                "filter": [
-                    "payments & shopping",
-                    "bullhorn"
-                ]
-            },
-            {
-                "id": "fas fa-camera",
-                "name": "Camera",
-                "filter": [
-                    "payments & shopping",
-                    "camera"
-                ]
-            },
-            {
-                "id": "fas fa-camera-retro",
-                "name": "Camera-retro",
-                "filter": [
-                    "payments & shopping",
-                    "camera",
-                    "retro"
-                ]
-            },
-            {
-                "id": "fas fa-cart-arrow-down",
-                "name": "Cart-arrow-down",
-                "filter": [
-                    "payments & shopping",
-                    "cart",
-                    "arrow",
-                    "down"
-                ]
-            },
-            {
-                "id": "fas fa-cart-plus",
                 "name": "Cart-plus",
+                "id": "fas fa-cart-plus",
                 "filter": [
                     "payments & shopping",
                     "cart",
@@ -13636,8 +10320,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-amazon-pay",
                 "name": "Cc-amazon-pay",
+                "id": "fab fa-cc-amazon-pay",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13646,8 +10330,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-amex",
                 "name": "Cc-amex",
+                "id": "fab fa-cc-amex",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13655,8 +10339,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-apple-pay",
                 "name": "Cc-apple-pay",
+                "id": "fab fa-cc-apple-pay",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13665,8 +10349,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-diners-club",
                 "name": "Cc-diners-club",
+                "id": "fab fa-cc-diners-club",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13675,8 +10359,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-discover",
                 "name": "Cc-discover",
+                "id": "fab fa-cc-discover",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13684,8 +10368,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-jcb",
                 "name": "Cc-jcb",
+                "id": "fab fa-cc-jcb",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13693,8 +10377,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-mastercard",
                 "name": "Cc-mastercard",
+                "id": "fab fa-cc-mastercard",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13702,8 +10386,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-paypal",
                 "name": "Cc-paypal",
+                "id": "fab fa-cc-paypal",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13711,8 +10395,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-stripe",
                 "name": "Cc-stripe",
+                "id": "fab fa-cc-stripe",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13720,8 +10404,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-cc-visa",
                 "name": "Cc-visa",
+                "id": "fab fa-cc-visa",
                 "filter": [
                     "payments & shopping",
                     "cc",
@@ -13729,16 +10413,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-certificate",
-                "name": "Certificate",
-                "filter": [
-                    "payments & shopping",
-                    "certificate"
-                ]
-            },
-            {
+                "name": "Credit-card",
                 "id": "fas fa-credit-card",
-                "name": "Credit-card",
                 "filter": [
                     "payments & shopping",
                     "credit",
@@ -13746,8 +10422,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "Credit-card",
                 "id": "far fa-credit-card",
-                "name": "Credit-card",
                 "filter": [
                     "payments & shopping",
                     "credit",
@@ -13755,40 +10431,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-ethereum",
                 "name": "Ethereum",
+                "id": "fab fa-ethereum",
                 "filter": [
                     "payments & shopping",
                     "ethereum"
                 ]
             },
             {
-                "id": "fas fa-gem",
-                "name": "Gem",
-                "filter": [
-                    "payments & shopping",
-                    "gem"
-                ]
-            },
-            {
-                "id": "far fa-gem",
-                "name": "Gem",
-                "filter": [
-                    "payments & shopping",
-                    "gem"
-                ]
-            },
-            {
-                "id": "fas fa-gift",
-                "name": "Gift",
-                "filter": [
-                    "payments & shopping",
-                    "gift"
-                ]
-            },
-            {
-                "id": "fab fa-google-wallet",
                 "name": "Google-wallet",
+                "id": "fab fa-google-wallet",
                 "filter": [
                     "payments & shopping",
                     "google",
@@ -13796,107 +10448,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-handshake",
-                "name": "Handshake",
-                "filter": [
-                    "payments & shopping",
-                    "handshake"
-                ]
-            },
-            {
-                "id": "far fa-handshake",
-                "name": "Handshake",
-                "filter": [
-                    "payments & shopping",
-                    "handshake"
-                ]
-            },
-            {
-                "id": "fas fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "payments & shopping",
-                    "heart"
-                ]
-            },
-            {
-                "id": "far fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "payments & shopping",
-                    "heart"
-                ]
-            },
-            {
-                "id": "fas fa-key",
-                "name": "Key",
-                "filter": [
-                    "payments & shopping",
-                    "key"
-                ]
-            },
-            {
-                "id": "fab fa-paypal",
                 "name": "Paypal",
+                "id": "fab fa-paypal",
                 "filter": [
                     "payments & shopping",
                     "paypal"
                 ]
             },
             {
-                "id": "fas fa-shopping-bag",
-                "name": "Shopping-bag",
-                "filter": [
-                    "payments & shopping",
-                    "shopping",
-                    "bag"
-                ]
-            },
-            {
-                "id": "fas fa-shopping-basket",
-                "name": "Shopping-basket",
-                "filter": [
-                    "payments & shopping",
-                    "shopping",
-                    "basket"
-                ]
-            },
-            {
-                "id": "fas fa-shopping-cart",
-                "name": "Shopping-cart",
-                "filter": [
-                    "payments & shopping",
-                    "shopping",
-                    "cart"
-                ]
-            },
-            {
+                "name": "Star",
                 "id": "fas fa-star",
-                "name": "Star",
                 "filter": [
                     "payments & shopping",
                     "star"
                 ]
             },
             {
+                "name": "Star",
                 "id": "far fa-star",
-                "name": "Star",
                 "filter": [
                     "payments & shopping",
                     "star"
                 ]
             },
             {
-                "id": "fab fa-stripe",
                 "name": "Stripe",
+                "id": "fab fa-stripe",
                 "filter": [
                     "payments & shopping",
                     "stripe"
                 ]
             },
             {
-                "id": "fab fa-stripe-s",
                 "name": "Stripe-s",
+                "id": "fab fa-stripe-s",
                 "filter": [
                     "payments & shopping",
                     "stripe",
@@ -13904,261 +10489,40 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-tag",
-                "name": "Tag",
-                "filter": [
-                    "payments & shopping",
-                    "tag"
-                ]
-            },
-            {
-                "id": "fas fa-tags",
-                "name": "Tags",
-                "filter": [
-                    "payments & shopping",
-                    "tags"
-                ]
-            },
-            {
-                "id": "fas fa-thumbs-down",
-                "name": "Thumbs-down",
-                "filter": [
-                    "payments & shopping",
-                    "thumbs",
-                    "down"
-                ]
-            },
-            {
-                "id": "far fa-thumbs-down",
-                "name": "Thumbs-down",
-                "filter": [
-                    "payments & shopping",
-                    "thumbs",
-                    "down"
-                ]
-            },
-            {
-                "id": "fas fa-thumbs-up",
-                "name": "Thumbs-up",
-                "filter": [
-                    "payments & shopping",
-                    "thumbs",
-                    "up"
-                ]
-            },
-            {
-                "id": "far fa-thumbs-up",
-                "name": "Thumbs-up",
-                "filter": [
-                    "payments & shopping",
-                    "thumbs",
-                    "up"
-                ]
-            },
-            {
-                "id": "fas fa-trophy",
                 "name": "Trophy",
+                "id": "fas fa-trophy",
                 "filter": [
                     "payments & shopping",
                     "trophy"
                 ]
             },
             {
-                "id": "fas fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "shapes",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "far fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "shapes",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "fas fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "shapes",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "far fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "shapes",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "fas fa-certificate",
-                "name": "Certificate",
-                "filter": [
-                    "shapes",
-                    "certificate"
-                ]
-            },
-            {
-                "id": "fas fa-circle",
-                "name": "Circle",
-                "filter": [
-                    "shapes",
-                    "circle"
-                ]
-            },
-            {
-                "id": "far fa-circle",
-                "name": "Circle",
-                "filter": [
-                    "shapes",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-cloud",
-                "name": "Cloud",
-                "filter": [
-                    "shapes",
-                    "cloud"
-                ]
-            },
-            {
-                "id": "fas fa-comment",
-                "name": "Comment",
-                "filter": [
-                    "shapes",
-                    "comment"
-                ]
-            },
-            {
-                "id": "far fa-comment",
-                "name": "Comment",
-                "filter": [
-                    "shapes",
-                    "comment"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "shapes",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "shapes",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "shapes",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "shapes",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "shapes",
-                    "heart"
-                ]
-            },
-            {
-                "id": "far fa-heart",
-                "name": "Heart",
-                "filter": [
-                    "shapes",
-                    "heart"
-                ]
-            },
-            {
-                "id": "fas fa-map-marker",
-                "name": "Map-marker",
-                "filter": [
-                    "shapes",
-                    "map",
-                    "marker"
-                ]
-            },
-            {
-                "id": "fas fa-play",
-                "name": "Play",
-                "filter": [
-                    "shapes",
-                    "play"
-                ]
-            },
-            {
+                "name": "Square",
                 "id": "fas fa-square",
-                "name": "Square",
                 "filter": [
                     "shapes",
                     "square"
                 ]
             },
             {
+                "name": "Square",
                 "id": "far fa-square",
-                "name": "Square",
                 "filter": [
                     "shapes",
                     "square"
                 ]
             },
             {
-                "id": "fas fa-star",
-                "name": "Star",
-                "filter": [
-                    "shapes",
-                    "star"
-                ]
-            },
-            {
-                "id": "far fa-star",
-                "name": "Star",
-                "filter": [
-                    "shapes",
-                    "star"
-                ]
-            },
-            {
-                "id": "fas fa-asterisk",
                 "name": "Asterisk",
+                "id": "fas fa-asterisk",
                 "filter": [
                     "spinners",
                     "asterisk"
                 ]
             },
             {
-                "id": "fas fa-certificate",
-                "name": "Certificate",
-                "filter": [
-                    "spinners",
-                    "certificate"
-                ]
-            },
-            {
-                "id": "fas fa-circle-notch",
                 "name": "Circle-notch",
+                "id": "fas fa-circle-notch",
                 "filter": [
                     "spinners",
                     "circle",
@@ -14166,106 +10530,48 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-cog",
-                "name": "Cog",
-                "filter": [
-                    "spinners",
-                    "cog"
-                ]
-            },
-            {
-                "id": "fas fa-compass",
-                "name": "Compass",
-                "filter": [
-                    "spinners",
-                    "compass"
-                ]
-            },
-            {
-                "id": "far fa-compass",
-                "name": "Compass",
-                "filter": [
-                    "spinners",
-                    "compass"
-                ]
-            },
-            {
-                "id": "fas fa-crosshairs",
-                "name": "Crosshairs",
-                "filter": [
-                    "spinners",
-                    "crosshairs"
-                ]
-            },
-            {
-                "id": "fas fa-life-ring",
-                "name": "Life-ring",
-                "filter": [
-                    "spinners",
-                    "life",
-                    "ring"
-                ]
-            },
-            {
-                "id": "far fa-life-ring",
-                "name": "Life-ring",
-                "filter": [
-                    "spinners",
-                    "life",
-                    "ring"
-                ]
-            },
-            {
+                "name": "Snowflake",
                 "id": "fas fa-snowflake",
-                "name": "Snowflake",
                 "filter": [
                     "spinners",
                     "snowflake"
                 ]
             },
             {
+                "name": "Snowflake",
                 "id": "far fa-snowflake",
-                "name": "Snowflake",
                 "filter": [
                     "spinners",
                     "snowflake"
                 ]
             },
             {
-                "id": "fas fa-spinner",
                 "name": "Spinner",
+                "id": "fas fa-spinner",
                 "filter": [
                     "spinners",
                     "spinner"
                 ]
             },
             {
+                "name": "Sun",
                 "id": "fas fa-sun",
-                "name": "Sun",
                 "filter": [
                     "spinners",
                     "sun"
                 ]
             },
             {
+                "name": "Sun",
                 "id": "far fa-sun",
-                "name": "Sun",
                 "filter": [
                     "spinners",
                     "sun"
                 ]
             },
             {
-                "id": "fas fa-sync",
-                "name": "Sync",
-                "filter": [
-                    "spinners",
-                    "sync"
-                ]
-            },
-            {
-                "id": "fas fa-baseball-ball",
                 "name": "Baseball-ball",
+                "id": "fas fa-baseball-ball",
                 "filter": [
                     "sports",
                     "baseball",
@@ -14273,8 +10579,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-basketball-ball",
                 "name": "Basketball-ball",
+                "id": "fas fa-basketball-ball",
                 "filter": [
                     "sports",
                     "basketball",
@@ -14282,8 +10588,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bowling-ball",
                 "name": "Bowling-ball",
+                "id": "fas fa-bowling-ball",
                 "filter": [
                     "sports",
                     "bowling",
@@ -14291,8 +10597,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-football-ball",
                 "name": "Football-ball",
+                "id": "fas fa-football-ball",
                 "filter": [
                     "sports",
                     "football",
@@ -14300,24 +10606,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-futbol",
-                "name": "Futbol",
-                "filter": [
-                    "sports",
-                    "futbol"
-                ]
-            },
-            {
-                "id": "far fa-futbol",
-                "name": "Futbol",
-                "filter": [
-                    "sports",
-                    "futbol"
-                ]
-            },
-            {
-                "id": "fas fa-golf-ball",
                 "name": "Golf-ball",
+                "id": "fas fa-golf-ball",
                 "filter": [
                     "sports",
                     "golf",
@@ -14325,8 +10615,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-hockey-puck",
                 "name": "Hockey-puck",
+                "id": "fas fa-hockey-puck",
                 "filter": [
                     "sports",
                     "hockey",
@@ -14334,16 +10624,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-quidditch",
                 "name": "Quidditch",
+                "id": "fas fa-quidditch",
                 "filter": [
                     "sports",
                     "quidditch"
                 ]
             },
             {
-                "id": "fas fa-table-tennis",
                 "name": "Table-tennis",
+                "id": "fas fa-table-tennis",
                 "filter": [
                     "sports",
                     "table",
@@ -14351,8 +10641,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-volleyball-ball",
                 "name": "Volleyball-ball",
+                "id": "fas fa-volleyball-ball",
                 "filter": [
                     "sports",
                     "volleyball",
@@ -14360,16 +10650,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-ban",
-                "name": "Ban",
-                "filter": [
-                    "status",
-                    "ban"
-                ]
-            },
-            {
-                "id": "fas fa-battery-empty",
                 "name": "Battery-empty",
+                "id": "fas fa-battery-empty",
                 "filter": [
                     "status",
                     "battery",
@@ -14377,8 +10659,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-battery-full",
                 "name": "Battery-full",
+                "id": "fas fa-battery-full",
                 "filter": [
                     "status",
                     "battery",
@@ -14386,8 +10668,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-battery-half",
                 "name": "Battery-half",
+                "id": "fas fa-battery-half",
                 "filter": [
                     "status",
                     "battery",
@@ -14395,8 +10677,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-battery-quarter",
                 "name": "Battery-quarter",
+                "id": "fas fa-battery-quarter",
                 "filter": [
                     "status",
                     "battery",
@@ -14404,8 +10686,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-battery-three-quarters",
                 "name": "Battery-three-quarters",
+                "id": "fas fa-battery-three-quarters",
                 "filter": [
                     "status",
                     "battery",
@@ -14414,455 +10696,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "status",
-                    "bell"
-                ]
-            },
-            {
-                "id": "far fa-bell",
-                "name": "Bell",
-                "filter": [
-                    "status",
-                    "bell"
-                ]
-            },
-            {
-                "id": "fas fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "status",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-bell-slash",
-                "name": "Bell-slash",
-                "filter": [
-                    "status",
-                    "bell",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "status",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "far fa-calendar",
-                "name": "Calendar",
-                "filter": [
-                    "status",
-                    "calendar"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-calendar-alt",
-                "name": "Calendar-alt",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-check",
-                "name": "Calendar-check",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "check"
-                ]
-            },
-            {
-                "id": "far fa-calendar-check",
-                "name": "Calendar-check",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "check"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-minus",
-                "name": "Calendar-minus",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "minus"
-                ]
-            },
-            {
-                "id": "far fa-calendar-minus",
-                "name": "Calendar-minus",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "minus"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-plus",
-                "name": "Calendar-plus",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "plus"
-                ]
-            },
-            {
-                "id": "far fa-calendar-plus",
-                "name": "Calendar-plus",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "plus"
-                ]
-            },
-            {
-                "id": "fas fa-calendar-times",
-                "name": "Calendar-times",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "times"
-                ]
-            },
-            {
-                "id": "far fa-calendar-times",
-                "name": "Calendar-times",
-                "filter": [
-                    "status",
-                    "calendar",
-                    "times"
-                ]
-            },
-            {
-                "id": "fas fa-cart-arrow-down",
-                "name": "Cart-arrow-down",
-                "filter": [
-                    "status",
-                    "cart",
-                    "arrow",
-                    "down"
-                ]
-            },
-            {
-                "id": "fas fa-cart-plus",
-                "name": "Cart-plus",
-                "filter": [
-                    "status",
-                    "cart",
-                    "plus"
-                ]
-            },
-            {
-                "id": "fas fa-exclamation",
-                "name": "Exclamation",
-                "filter": [
-                    "status",
-                    "exclamation"
-                ]
-            },
-            {
-                "id": "fas fa-exclamation-circle",
-                "name": "Exclamation-circle",
-                "filter": [
-                    "status",
-                    "exclamation",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-exclamation-triangle",
-                "name": "Exclamation-triangle",
-                "filter": [
-                    "status",
-                    "exclamation",
-                    "triangle"
-                ]
-            },
-            {
-                "id": "fas fa-eye",
-                "name": "Eye",
-                "filter": [
-                    "status",
-                    "eye"
-                ]
-            },
-            {
-                "id": "fas fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "status",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "far fa-eye-slash",
-                "name": "Eye-slash",
-                "filter": [
-                    "status",
-                    "eye",
-                    "slash"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "status",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "status",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "status",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "status",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "status",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "status",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "status",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "status",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-info",
-                "name": "Info",
-                "filter": [
-                    "status",
-                    "info"
-                ]
-            },
-            {
-                "id": "fas fa-info-circle",
-                "name": "Info-circle",
-                "filter": [
-                    "status",
-                    "info",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-lock",
-                "name": "Lock",
-                "filter": [
-                    "status",
-                    "lock"
-                ]
-            },
-            {
-                "id": "fas fa-lock-open",
-                "name": "Lock-open",
-                "filter": [
-                    "status",
-                    "lock",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-minus",
-                "name": "Minus",
-                "filter": [
-                    "status",
-                    "minus"
-                ]
-            },
-            {
-                "id": "fas fa-minus-circle",
-                "name": "Minus-circle",
-                "filter": [
-                    "status",
-                    "minus",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-minus-square",
-                "name": "Minus-square",
-                "filter": [
-                    "status",
-                    "minus",
-                    "square"
-                ]
-            },
-            {
-                "id": "far fa-minus-square",
-                "name": "Minus-square",
-                "filter": [
-                    "status",
-                    "minus",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-plus",
-                "name": "Plus",
-                "filter": [
-                    "status",
-                    "plus"
-                ]
-            },
-            {
-                "id": "fas fa-plus-circle",
-                "name": "Plus-circle",
-                "filter": [
-                    "status",
-                    "plus",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "status",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "far fa-plus-square",
-                "name": "Plus-square",
-                "filter": [
-                    "status",
-                    "plus",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-question",
-                "name": "Question",
-                "filter": [
-                    "status",
-                    "question"
-                ]
-            },
-            {
-                "id": "fas fa-question-circle",
-                "name": "Question-circle",
-                "filter": [
-                    "status",
-                    "question",
-                    "circle"
-                ]
-            },
-            {
-                "id": "far fa-question-circle",
-                "name": "Question-circle",
-                "filter": [
-                    "status",
-                    "question",
-                    "circle"
-                ]
-            },
-            {
-                "id": "fas fa-shield-alt",
-                "name": "Shield-alt",
-                "filter": [
-                    "status",
-                    "shield",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-shopping-cart",
-                "name": "Shopping-cart",
-                "filter": [
-                    "status",
-                    "shopping",
-                    "cart"
-                ]
-            },
-            {
-                "id": "fas fa-sign-in-alt",
-                "name": "Sign-in-alt",
-                "filter": [
-                    "status",
-                    "sign",
-                    "in",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-sign-out-alt",
-                "name": "Sign-out-alt",
-                "filter": [
-                    "status",
-                    "sign",
-                    "out",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-thermometer-empty",
                 "name": "Thermometer-empty",
+                "id": "fas fa-thermometer-empty",
                 "filter": [
                     "status",
                     "thermometer",
@@ -14870,8 +10705,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-thermometer-full",
                 "name": "Thermometer-full",
+                "id": "fas fa-thermometer-full",
                 "filter": [
                     "status",
                     "thermometer",
@@ -14879,8 +10714,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-thermometer-half",
                 "name": "Thermometer-half",
+                "id": "fas fa-thermometer-half",
                 "filter": [
                     "status",
                     "thermometer",
@@ -14888,8 +10723,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-thermometer-quarter",
                 "name": "Thermometer-quarter",
+                "id": "fas fa-thermometer-quarter",
                 "filter": [
                     "status",
                     "thermometer",
@@ -14897,8 +10732,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-thermometer-three-quarters",
                 "name": "Thermometer-three-quarters",
+                "id": "fas fa-thermometer-three-quarters",
                 "filter": [
                     "status",
                     "thermometer",
@@ -14907,44 +10742,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-thumbs-down",
-                "name": "Thumbs-down",
-                "filter": [
-                    "status",
-                    "thumbs",
-                    "down"
-                ]
-            },
-            {
-                "id": "far fa-thumbs-down",
-                "name": "Thumbs-down",
-                "filter": [
-                    "status",
-                    "thumbs",
-                    "down"
-                ]
-            },
-            {
-                "id": "fas fa-thumbs-up",
-                "name": "Thumbs-up",
-                "filter": [
-                    "status",
-                    "thumbs",
-                    "up"
-                ]
-            },
-            {
-                "id": "far fa-thumbs-up",
-                "name": "Thumbs-up",
-                "filter": [
-                    "status",
-                    "thumbs",
-                    "up"
-                ]
-            },
-            {
-                "id": "fas fa-toggle-off",
                 "name": "Toggle-off",
+                "id": "fas fa-toggle-off",
                 "filter": [
                     "status",
                     "toggle",
@@ -14952,8 +10751,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-toggle-on",
                 "name": "Toggle-on",
+                "id": "fas fa-toggle-on",
                 "filter": [
                     "status",
                     "toggle",
@@ -14961,16 +10760,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-unlock",
                 "name": "Unlock",
+                "id": "fas fa-unlock",
                 "filter": [
                     "status",
                     "unlock"
                 ]
             },
             {
-                "id": "fas fa-unlock-alt",
                 "name": "Unlock-alt",
+                "id": "fas fa-unlock-alt",
                 "filter": [
                     "status",
                     "unlock",
@@ -14978,211 +10777,56 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fab fa-accessible-icon",
-                "name": "Accessible-icon",
-                "filter": [
-                    "users & people",
-                    "accessible",
-                    "icon"
-                ]
-            },
-            {
-                "id": "fas fa-address-book",
-                "name": "Address-book",
-                "filter": [
-                    "users & people",
-                    "address",
-                    "book"
-                ]
-            },
-            {
-                "id": "far fa-address-book",
-                "name": "Address-book",
-                "filter": [
-                    "users & people",
-                    "address",
-                    "book"
-                ]
-            },
-            {
-                "id": "fas fa-address-card",
-                "name": "Address-card",
-                "filter": [
-                    "users & people",
-                    "address",
-                    "card"
-                ]
-            },
-            {
-                "id": "far fa-address-card",
-                "name": "Address-card",
-                "filter": [
-                    "users & people",
-                    "address",
-                    "card"
-                ]
-            },
-            {
-                "id": "fas fa-bed",
-                "name": "Bed",
-                "filter": [
-                    "users & people",
-                    "bed"
-                ]
-            },
-            {
-                "id": "fas fa-blind",
-                "name": "Blind",
-                "filter": [
-                    "users & people",
-                    "blind"
-                ]
-            },
-            {
-                "id": "fas fa-child",
                 "name": "Child",
+                "id": "fas fa-child",
                 "filter": [
                     "users & people",
                     "child"
                 ]
             },
             {
-                "id": "fas fa-female",
                 "name": "Female",
+                "id": "fas fa-female",
                 "filter": [
                     "users & people",
                     "female"
                 ]
             },
             {
-                "id": "fas fa-frown",
-                "name": "Frown",
-                "filter": [
-                    "users & people",
-                    "frown"
-                ]
-            },
-            {
-                "id": "far fa-frown",
-                "name": "Frown",
-                "filter": [
-                    "users & people",
-                    "frown"
-                ]
-            },
-            {
-                "id": "fas fa-id-badge",
-                "name": "Id-badge",
-                "filter": [
-                    "users & people",
-                    "id",
-                    "badge"
-                ]
-            },
-            {
-                "id": "far fa-id-badge",
-                "name": "Id-badge",
-                "filter": [
-                    "users & people",
-                    "id",
-                    "badge"
-                ]
-            },
-            {
-                "id": "fas fa-id-card",
-                "name": "Id-card",
-                "filter": [
-                    "users & people",
-                    "id",
-                    "card"
-                ]
-            },
-            {
-                "id": "far fa-id-card",
-                "name": "Id-card",
-                "filter": [
-                    "users & people",
-                    "id",
-                    "card"
-                ]
-            },
-            {
-                "id": "fas fa-male",
-                "name": "Male",
-                "filter": [
-                    "users & people",
-                    "male"
-                ]
-            },
-            {
-                "id": "fas fa-meh",
-                "name": "Meh",
-                "filter": [
-                    "users & people",
-                    "meh"
-                ]
-            },
-            {
-                "id": "far fa-meh",
-                "name": "Meh",
-                "filter": [
-                    "users & people",
-                    "meh"
-                ]
-            },
-            {
-                "id": "fas fa-power-off",
-                "name": "Power-off",
-                "filter": [
-                    "users & people",
-                    "power",
-                    "off"
-                ]
-            },
-            {
+                "name": "Smile",
                 "id": "fas fa-smile",
-                "name": "Smile",
                 "filter": [
                     "users & people",
                     "smile"
                 ]
             },
             {
+                "name": "Smile",
                 "id": "far fa-smile",
-                "name": "Smile",
                 "filter": [
                     "users & people",
                     "smile"
                 ]
             },
             {
-                "id": "fas fa-street-view",
-                "name": "Street-view",
-                "filter": [
-                    "users & people",
-                    "street",
-                    "view"
-                ]
-            },
-            {
+                "name": "User",
                 "id": "fas fa-user",
-                "name": "User",
                 "filter": [
                     "users & people",
                     "user"
                 ]
             },
             {
+                "name": "User",
                 "id": "far fa-user",
-                "name": "User",
                 "filter": [
                     "users & people",
                     "user"
                 ]
             },
             {
+                "name": "User-circle",
                 "id": "fas fa-user-circle",
-                "name": "User-circle",
                 "filter": [
                     "users & people",
                     "user",
@@ -15190,8 +10834,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
+                "name": "User-circle",
                 "id": "far fa-user-circle",
-                "name": "User-circle",
                 "filter": [
                     "users & people",
                     "user",
@@ -15199,17 +10843,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-user-md",
-                "name": "User-md",
-                "filter": [
-                    "users & people",
-                    "user",
-                    "md"
-                ]
-            },
-            {
-                "id": "fas fa-user-plus",
                 "name": "User-plus",
+                "id": "fas fa-user-plus",
                 "filter": [
                     "users & people",
                     "user",
@@ -15217,17 +10852,8 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-user-secret",
-                "name": "User-secret",
-                "filter": [
-                    "users & people",
-                    "user",
-                    "secret"
-                ]
-            },
-            {
-                "id": "fas fa-user-times",
                 "name": "User-times",
+                "id": "fas fa-user-times",
                 "filter": [
                     "users & people",
                     "user",
@@ -15235,133 +10861,16 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-users",
                 "name": "Users",
+                "id": "fas fa-users",
                 "filter": [
                     "users & people",
                     "users"
                 ]
             },
             {
-                "id": "fas fa-wheelchair",
-                "name": "Wheelchair",
-                "filter": [
-                    "users & people",
-                    "wheelchair"
-                ]
-            },
-            {
-                "id": "fab fa-accessible-icon",
-                "name": "Accessible-icon",
-                "filter": [
-                    "vehicles",
-                    "accessible",
-                    "icon"
-                ]
-            },
-            {
-                "id": "fas fa-ambulance",
-                "name": "Ambulance",
-                "filter": [
-                    "vehicles",
-                    "ambulance"
-                ]
-            },
-            {
-                "id": "fas fa-bicycle",
-                "name": "Bicycle",
-                "filter": [
-                    "vehicles",
-                    "bicycle"
-                ]
-            },
-            {
-                "id": "fas fa-bus",
-                "name": "Bus",
-                "filter": [
-                    "vehicles",
-                    "bus"
-                ]
-            },
-            {
-                "id": "fas fa-car",
-                "name": "Car",
-                "filter": [
-                    "vehicles",
-                    "car"
-                ]
-            },
-            {
-                "id": "fas fa-fighter-jet",
-                "name": "Fighter-jet",
-                "filter": [
-                    "vehicles",
-                    "fighter",
-                    "jet"
-                ]
-            },
-            {
-                "id": "fas fa-motorcycle",
-                "name": "Motorcycle",
-                "filter": [
-                    "vehicles",
-                    "motorcycle"
-                ]
-            },
-            {
-                "id": "fas fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "vehicles",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "far fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "vehicles",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "fas fa-plane",
-                "name": "Plane",
-                "filter": [
-                    "vehicles",
-                    "plane"
-                ]
-            },
-            {
-                "id": "fas fa-rocket",
-                "name": "Rocket",
-                "filter": [
-                    "vehicles",
-                    "rocket"
-                ]
-            },
-            {
-                "id": "fas fa-ship",
-                "name": "Ship",
-                "filter": [
-                    "vehicles",
-                    "ship"
-                ]
-            },
-            {
-                "id": "fas fa-shopping-cart",
-                "name": "Shopping-cart",
-                "filter": [
-                    "vehicles",
-                    "shopping",
-                    "cart"
-                ]
-            },
-            {
-                "id": "fas fa-space-shuttle",
                 "name": "Space-shuttle",
+                "id": "fas fa-space-shuttle",
                 "filter": [
                     "vehicles",
                     "space",
@@ -15369,329 +10878,19 @@ var IconPickerService = (function () {
                 ]
             },
             {
-                "id": "fas fa-subway",
-                "name": "Subway",
-                "filter": [
-                    "vehicles",
-                    "subway"
-                ]
-            },
-            {
-                "id": "fas fa-taxi",
-                "name": "Taxi",
-                "filter": [
-                    "vehicles",
-                    "taxi"
-                ]
-            },
-            {
-                "id": "fas fa-train",
                 "name": "Train",
+                "id": "fas fa-train",
                 "filter": [
                     "vehicles",
                     "train"
                 ]
             },
             {
-                "id": "fas fa-truck",
                 "name": "Truck",
+                "id": "fas fa-truck",
                 "filter": [
                     "vehicles",
                     "truck"
-                ]
-            },
-            {
-                "id": "fas fa-wheelchair",
-                "name": "Wheelchair",
-                "filter": [
-                    "vehicles",
-                    "wheelchair"
-                ]
-            },
-            {
-                "id": "fas fa-archive",
-                "name": "Archive",
-                "filter": [
-                    "writing",
-                    "archive"
-                ]
-            },
-            {
-                "id": "fas fa-book",
-                "name": "Book",
-                "filter": [
-                    "writing",
-                    "book"
-                ]
-            },
-            {
-                "id": "fas fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "writing",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "far fa-bookmark",
-                "name": "Bookmark",
-                "filter": [
-                    "writing",
-                    "bookmark"
-                ]
-            },
-            {
-                "id": "fas fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "writing",
-                    "edit"
-                ]
-            },
-            {
-                "id": "far fa-edit",
-                "name": "Edit",
-                "filter": [
-                    "writing",
-                    "edit"
-                ]
-            },
-            {
-                "id": "fas fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "writing",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "far fa-envelope",
-                "name": "Envelope",
-                "filter": [
-                    "writing",
-                    "envelope"
-                ]
-            },
-            {
-                "id": "fas fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "writing",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-envelope-open",
-                "name": "Envelope-open",
-                "filter": [
-                    "writing",
-                    "envelope",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-eraser",
-                "name": "Eraser",
-                "filter": [
-                    "writing",
-                    "eraser"
-                ]
-            },
-            {
-                "id": "fas fa-file",
-                "name": "File",
-                "filter": [
-                    "writing",
-                    "file"
-                ]
-            },
-            {
-                "id": "far fa-file",
-                "name": "File",
-                "filter": [
-                    "writing",
-                    "file"
-                ]
-            },
-            {
-                "id": "fas fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "writing",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "far fa-file-alt",
-                "name": "File-alt",
-                "filter": [
-                    "writing",
-                    "file",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "writing",
-                    "folder"
-                ]
-            },
-            {
-                "id": "far fa-folder",
-                "name": "Folder",
-                "filter": [
-                    "writing",
-                    "folder"
-                ]
-            },
-            {
-                "id": "fas fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "writing",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "far fa-folder-open",
-                "name": "Folder-open",
-                "filter": [
-                    "writing",
-                    "folder",
-                    "open"
-                ]
-            },
-            {
-                "id": "fas fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "writing",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "far fa-keyboard",
-                "name": "Keyboard",
-                "filter": [
-                    "writing",
-                    "keyboard"
-                ]
-            },
-            {
-                "id": "fas fa-newspaper",
-                "name": "Newspaper",
-                "filter": [
-                    "writing",
-                    "newspaper"
-                ]
-            },
-            {
-                "id": "far fa-newspaper",
-                "name": "Newspaper",
-                "filter": [
-                    "writing",
-                    "newspaper"
-                ]
-            },
-            {
-                "id": "fas fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "writing",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "far fa-paper-plane",
-                "name": "Paper-plane",
-                "filter": [
-                    "writing",
-                    "paper",
-                    "plane"
-                ]
-            },
-            {
-                "id": "fas fa-paperclip",
-                "name": "Paperclip",
-                "filter": [
-                    "writing",
-                    "paperclip"
-                ]
-            },
-            {
-                "id": "fas fa-paragraph",
-                "name": "Paragraph",
-                "filter": [
-                    "writing",
-                    "paragraph"
-                ]
-            },
-            {
-                "id": "fas fa-pen-square",
-                "name": "Pen-square",
-                "filter": [
-                    "writing",
-                    "pen",
-                    "square"
-                ]
-            },
-            {
-                "id": "fas fa-pencil-alt",
-                "name": "Pencil-alt",
-                "filter": [
-                    "writing",
-                    "pencil",
-                    "alt"
-                ]
-            },
-            {
-                "id": "fas fa-quote-left",
-                "name": "Quote-left",
-                "filter": [
-                    "writing",
-                    "quote",
-                    "left"
-                ]
-            },
-            {
-                "id": "fas fa-quote-right",
-                "name": "Quote-right",
-                "filter": [
-                    "writing",
-                    "quote",
-                    "right"
-                ]
-            },
-            {
-                "id": "fas fa-sticky-note",
-                "name": "Sticky-note",
-                "filter": [
-                    "writing",
-                    "sticky",
-                    "note"
-                ]
-            },
-            {
-                "id": "far fa-sticky-note",
-                "name": "Sticky-note",
-                "filter": [
-                    "writing",
-                    "sticky",
-                    "note"
-                ]
-            },
-            {
-                "id": "fas fa-thumbtack",
-                "name": "Thumbtack",
-                "filter": [
-                    "writing",
-                    "thumbtack"
                 ]
             },
             {
